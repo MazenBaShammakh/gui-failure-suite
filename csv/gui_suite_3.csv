@@ -1,321 +1,321 @@
 id,benchmark_id,benchmark,split,app,platform_type,task
-mind2web-web-2001,m2w_domain,Mind2Web,test,epicurious,web,Browse vegan lasagna recipes and sort by Highest rated.
-mind2web-web-2002,m2w_domain,Mind2Web,test,epicurious,web,Find articles about gluten-free desserts.
-mind2web-web-2003,m2w_domain,Mind2Web,test,epicurious,web,"Add a recipe to your ""favorites"" list."
-mind2web-web-2004,m2w_domain,Mind2Web,test,epicurious,web,"Find a most reviewed dairy free pasta recipe, which can be prepared from 5 or less ingredients and save it."
-mind2web-web-2005,m2w_domain,Mind2Web,test,student,web,with a $100 to $300 budget search for student accommodation close to London business school with a no visa no pay cancellation policy
-mind2web-web-2006,m2w_domain,Mind2Web,test,accuweather,web,Play a past episode of one of their podcasts
-mind2web-web-2007,m2w_domain,Mind2Web,test,accuweather,web,Check the hourly forecast for Boston.
-mind2web-web-2008,m2w_domain,Mind2Web,test,accuweather,web,Look up the pollutants of New York City.
-mind2web-web-2009,m2w_domain,Mind2Web,test,accuweather,web,"Find out the wind speed and humidity in Tallahassee, FL for today."
-mind2web-web-2010,m2w_domain,Mind2Web,test,student,web,Find a property which is nearest to  Aston University.
-mind2web-web-2011,m2w_domain,Mind2Web,test,zocdoc,web,Find a Metlife Vision plus affiliated Gujarati-speaking male Chiropractor within 5 miles of New York for an in-person visit as soon as possible.
-mind2web-web-2012,m2w_domain,Mind2Web,test,zocdoc,web,Check reviews of Dr. Theresa Meotti.
-mind2web-web-2013,m2w_domain,Mind2Web,test,indeed,web,Open the job search I've been looking recently.
-mind2web-web-2014,m2w_domain,Mind2Web,test,indeed,web,Look for customer service jobs in Chicago that have a minimum wage of $20 per hour and require no experience.
-mind2web-web-2015,m2w_domain,Mind2Web,test,indeed,web,Look for healthcare jobs in Los Angeles that require a Bachelor's degree and don't require weekends.
-mind2web-web-2016,m2w_domain,Mind2Web,test,indeed,web,Browse home office jobs with salary over 25000.
-mind2web-web-2017,m2w_domain,Mind2Web,test,adoptapet,web,Find a white female kitten within 35 miles of zip 77494.
-mind2web-web-2018,m2w_domain,Mind2Web,test,adoptapet,web,Browse senior spayed/neutered dogs near zip code 90028.
-mind2web-web-2019,m2w_domain,Mind2Web,test,student,web,Save 2 different properties with lowest price in San Diego to wishlist.
-mind2web-web-2020,m2w_domain,Mind2Web,test,healthgrades,web,Browse dentists 10 miles near zip code 90028 and filter by 4 stars and up
-mind2web-web-2021,m2w_domain,Mind2Web,test,healthgrades,web,Find the closest 5-star rated dentist to zip code 98011
-mind2web-web-2022,m2w_domain,Mind2Web,test,drugs,web,Browse the natural products database.
-mind2web-web-2023,m2w_domain,Mind2Web,test,drugs,web,Find the Drug Interaction Report for viagra and alcohol
-mind2web-web-2024,m2w_domain,Mind2Web,test,drugs,web,Show side effects of Tamiflu.
-mind2web-web-2025,m2w_domain,Mind2Web,test,drugs,web,Browse Humira dosage information.
-mind2web-web-2026,m2w_domain,Mind2Web,test,drugs,web,Show the list of Medications for Anxiety
-mind2web-web-2027,m2w_domain,Mind2Web,test,drugs,web,Check drug interaction for melatonin and Folate Forte.
-mind2web-web-2028,m2w_domain,Mind2Web,test,drugs,web,Check the interaction between Novolin N and Novolin R.
-mind2web-web-2029,m2w_domain,Mind2Web,test,drugs,web,find the interactions between Eulexin and hepatic dysfunction.
-mind2web-web-2030,m2w_domain,Mind2Web,test,drugs,web,Find the side effects of taking Montelukast
-mind2web-web-2031,m2w_domain,Mind2Web,test,ups,web,Find the shiping cost of a Common medium sized box in flat rate shipping and compare with other parcel services
-mind2web-web-2032,m2w_domain,Mind2Web,test,ups,web,Go to the page to schedule a pickup in the US.
-mind2web-web-2033,m2w_domain,Mind2Web,test,ups,web,Track order number 123456 for US.
-mind2web-web-2034,m2w_domain,Mind2Web,test,ups,web,Search the Pickup Request Status for the Pickup Request with the Number 123456
-mind2web-web-2035,m2w_domain,Mind2Web,test,ups,web,"Find a UPS Access Point near SPRING, TX and services provided by them"
-mind2web-web-2036,m2w_domain,Mind2Web,test,thumbtack,web,Get a free cost estimate for a house cleaner
-mind2web-web-2037,m2w_domain,Mind2Web,test,thumbtack,web,View the profile of a Wedding Photographer near 10203 for a 4 hour wedding on april 13
-mind2web-web-2038,m2w_domain,Mind2Web,test,thumbtack,web,Find a personal trainer service at 10040 for a 25 year old client aiming to build muscle.
-mind2web-web-2039,m2w_domain,Mind2Web,test,thumbtack,web,find electricians near 10203
-mind2web-web-2040,m2w_domain,Mind2Web,test,thumbtack,web,Find linux platform software developers in 10080 who master the python language and java language with web interface project type.
-mind2web-web-2041,m2w_domain,Mind2Web,test,thumbtack,web,Find a house cleaning service in 10001 on a weekly basis.
-mind2web-web-2042,m2w_domain,Mind2Web,test,thumbtack,web,Find and contact for price a plumber near 13020 for toilet repair
-mind2web-web-2043,m2w_domain,Mind2Web,test,thumbtack,web,Find the best weekly morning deep house cleaning services for a two-bedroom and two-bathroom house without a pet in zip 07718.
-mind2web-web-2044,m2w_domain,Mind2Web,test,twitter,web,Follow SpaceX and like and bookmark the latest tweet.
-mind2web-web-2045,m2w_domain,Mind2Web,test,usps,web,Update the quantity to 5 for the  Souvenir sheet in the shopping cart.
-mind2web-web-2046,m2w_domain,Mind2Web,test,finance.google,web,Create a new portfolio called AI and add one AI stock to it.
-mind2web-web-2047,m2w_domain,Mind2Web,test,thumbtack,web,Check the availability for a service of Lawn Mower repair which does not start
-mind2web-web-2048,m2w_domain,Mind2Web,test,extraspace,web,Find the largest size unit at BIRMINGHAM SELF STORAGE AT 720 MONTCLAIR RD and view the size description and size help.
-mind2web-web-2049,m2w_domain,Mind2Web,test,extraspace,web,find RV storage near you sorted by location with controlled climate
-mind2web-web-2050,m2w_domain,Mind2Web,test,extraspace,web,"Find a small storage near Albany, New York location."
-mind2web-web-2051,m2w_domain,Mind2Web,test,reddit,web,Find and join community of Fortnite with most members.
-mind2web-web-2052,m2w_domain,Mind2Web,test,reddit,web,"Create a post on Cryptocurrency suggestions and save it as a draft with the content ""Please suggest crypto trading which is profitable."""
-mind2web-web-2053,m2w_domain,Mind2Web,test,reddit,web,"Start and save as a draft a post titled ""Post"" with nothing written on it"
-mind2web-web-2054,m2w_domain,Mind2Web,test,reddit,web,Search for a comment about hip hop on the post about meme with the most  comments from the last week
-mind2web-web-2055,m2w_domain,Mind2Web,test,student,web,"Browse housing options near University of California, Los Angeles that is rated at least 4 stars and included Wi-Fi"
-mind2web-web-2056,m2w_domain,Mind2Web,test,epicurious,web,Browse chicken soup recipes that can be made with Instant Pot.
-mind2web-web-2057,m2w_domain,Mind2Web,test,indeed,web,Find a grocery store cashier job in Florida.
-mind2web-web-2058,m2w_domain,Mind2Web,test,indeed,web,"Look and apply if found, a Job in Zoho Corporation in Human resource for a salary above 30k for a master's degree holder."
-mind2web-web-2059,m2w_domain,Mind2Web,test,indeed,web,Find reviews for Calico Life Science and mark a review which is helpful.
-mind2web-web-2060,m2w_domain,Mind2Web,test,indeed,web,Search for remote software engineer jobs in United States
-mind2web-web-2061,m2w_domain,Mind2Web,test,babycenter,web,Search and join a group about diabetes
-mind2web-web-2062,m2w_domain,Mind2Web,test,babycenter,web,What are the similar names to the name carl
-mind2web-web-2063,m2w_domain,Mind2Web,test,babycenter,web,Show me community posts about pregnancy fever from the past 30 days
-mind2web-web-2064,m2w_domain,Mind2Web,test,pensketruckrental,web,Get help planning your move by finding Loading & Towing tips
-mind2web-web-2065,m2w_domain,Mind2Web,test,pensketruckrental,web,"Get a quote for a pick up in Detroit, MI and drop of in Cleveland, OH on April 12th for a 12 foot truck."
-mind2web-web-2066,m2w_domain,Mind2Web,test,pensketruckrental,web,Go to the page with information on how to load a moving truck.
-mind2web-web-2067,m2w_domain,Mind2Web,test,pensketruckrental,web,View the Truck Side-By-Side Comparison Chart and then select the truck that is good for moving 3-5 rooms
-mind2web-web-2068,m2w_domain,Mind2Web,test,pensketruckrental,web,Get a moving quote for a 12 foot truck from Oregon to Cleveland.
-mind2web-web-2069,m2w_domain,Mind2Web,test,umich.edu,web,Find the internships/Research opportunities in summer that are off campus.
-mind2web-web-2070,m2w_domain,Mind2Web,test,umich.edu,web,Find registration deadlines for fall 2024 academic term
-mind2web-web-2071,m2w_domain,Mind2Web,test,umich.edu,web,Find tuition & fees for full term graduate students in the college of engineering for the academic year 2022-2023
-mind2web-web-2072,m2w_domain,Mind2Web,test,umich.edu,web,Find the time and location of the first available Campus Tour in April 2023 for First-Year Prospective students
-mind2web-web-2073,m2w_domain,Mind2Web,test,umich.edu,web,Check whether there is any Undergraduate Information Session for First-Year Direct Entry into the bachelor school of nursing program
-mind2web-web-2074,m2w_domain,Mind2Web,test,umich.edu,web,Search for LSA courde Guide
-mind2web-web-2075,m2w_domain,Mind2Web,test,umich.edu,web,Get the information of Tution Fees for a full time course for undergrad study in college of Engineering
-mind2web-web-2076,m2w_domain,Mind2Web,test,umich.edu,web,Find the list of undergraduate majors and degrees for the schools of public health and public policy
-mind2web-web-2077,m2w_domain,Mind2Web,test,osu.edu,web,Find a class for animal science in The ohio state university
-mind2web-web-2078,m2w_domain,Mind2Web,test,finance.yahoo,web,"Find the closing stock price for Tesla on March 17, 2023."
-mind2web-web-2079,m2w_domain,Mind2Web,test,finance.yahoo,web,Find the list for High-Yield Dividend Stocks and share it on Twitter
-mind2web-web-2080,m2w_domain,Mind2Web,test,finance.yahoo,web,Open chart for BTC-USD.
-mind2web-web-2081,m2w_domain,Mind2Web,test,finance.yahoo,web,Create a new portfolio called Tech and add Microsfot.
-mind2web-web-2082,m2w_domain,Mind2Web,test,mayoclinic.org,web,Find a doctor for back pain in Rochester
-mind2web-web-2083,m2w_domain,Mind2Web,test,careers.walmart,web,Show me jobs for MBA & Graduate Internships.
-mind2web-web-2084,m2w_domain,Mind2Web,test,careers.walmart,web,Show me all opening for sam's club jobs
-mind2web-web-2085,m2w_domain,Mind2Web,test,careers.walmart,web,Find jobs available in Atlanta as a software engineer.
-mind2web-web-2086,m2w_domain,Mind2Web,test,careers.walmart,web,Find support services jobs in Bentonville in the state of Arkansas.
-mind2web-web-2087,m2w_domain,Mind2Web,test,stocktwits,web,Join a Cryptocurrencies public room.
-mind2web-web-2088,m2w_domain,Mind2Web,test,stocktwits,web,View the chart for the stock TSLA and adjust the time frame to show the past 6 months.
-mind2web-web-2089,m2w_domain,Mind2Web,test,stocktwits,web,Create an alert for Tesla stock for when the price drops below $300
-mind2web-web-2090,m2w_domain,Mind2Web,test,twitter,web,Start following the @amazon twitter account
-mind2web-web-2091,m2w_domain,Mind2Web,test,twitter,web,Follow the Dallas Cowboys twitter account.
-mind2web-web-2092,m2w_domain,Mind2Web,test,student,web,"compare two rooms from the lowest  Student accommodation in Ann Arbor, university of Michigan North Campus"
-mind2web-web-2093,m2w_domain,Mind2Web,test,healthline,web,Find me sweet snacks for vegetarians that can be done in more than 5 minutes
-mind2web-web-2094,m2w_domain,Mind2Web,test,healthline,web,Show me the causes and risks for bipolar disorder.
-mind2web-web-2095,m2w_domain,Mind2Web,test,healthline,web,Join the mindful eating challenge.
-mind2web-web-2096,m2w_domain,Mind2Web,test,healthline,web,Find an article about treatment options of acid influx and vote the article as helpful and informative.
-mind2web-web-2097,m2w_domain,Mind2Web,test,healthline,web,"Take a weight management quiz to find a motivating article for a non excersizing, mostly eating out and can't control portions and cravings, and who has a strong support system, enjoys traveling, loves family time and cooking."
-mind2web-web-2098,m2w_domain,Mind2Web,test,healthgrades,web,Check reviews of SSM Health Cardinal Glennon Children's Hospital.
-mind2web-web-2099,m2w_domain,Mind2Web,test,healthgrades,web,"Find acupunctures within 50 miles from Mountain Pass, CA that accept Blue Cross Blue Shield PPO insurance plan."
-mind2web-web-2100,m2w_domain,Mind2Web,test,healthgrades,web,"Find the highest-rated doctor for knee replacement near Glendale, New York, who is between 40-50 years of age, is available within 2 weeks, and can converse in Chinese."
-mind2web-web-2101,m2w_domain,Mind2Web,test,dmv.virginia.gov,web,"Schedule an appointment for motorcycle Knowledge test at 8:30 AM on Apr 18 at the Abingdon office. My name is James Smith, email is abac@abc.com and mobile phone number is 888899778."
-mind2web-web-2102,m2w_domain,Mind2Web,test,dmv.virginia.gov,web,Browse the page with information about driver license eligibility for non residents.
-mind2web-web-2103,m2w_domain,Mind2Web,test,dmv.virginia.gov,web,Find out how to transfer the title of vehicle when the owner is deceased.
-mind2web-web-2104,m2w_domain,Mind2Web,test,dmv.virginia.gov,web,Find out the next date  when the dmv  mobile office will be in highland?
-mind2web-web-2105,m2w_domain,Mind2Web,test,dmv.virginia.gov,web,Show Teen Driver Safety program information.
-mind2web-web-2106,m2w_domain,Mind2Web,test,dmv.virginia.gov,web,Submit request for vehicle registration renewal.
-mind2web-web-2107,m2w_domain,Mind2Web,test,dmv.virginia.gov,web,Find the requirements and Exemptions for emission Inspection
-mind2web-web-2108,m2w_domain,Mind2Web,test,dmv.virginia.gov,web,Find a study guide to practice for the driving test.
-mind2web-web-2109,m2w_domain,Mind2Web,test,dmv.virginia.gov,web,Find a DMV center in Richmond
-mind2web-web-2110,m2w_domain,Mind2Web,test,usps,web,Find the nearest location to zip code 54620 that offers size 4 P.O. Boxes.
-mind2web-web-2111,m2w_domain,Mind2Web,test,usps,web,Calculate the price to ship a large flat rate box from 77449 to 77084 at the first available date and time.
-mind2web-web-2112,m2w_domain,Mind2Web,test,linkedin,web,"Search for Calico Life Science company and follow, like the first post."
-mind2web-web-2113,m2w_domain,Mind2Web,test,linkedin,web,Find Data Entry or similar jobs and save two of them.
-mind2web-web-2114,m2w_domain,Mind2Web,test,linkedin,web,Find Customer Support or most related job in New York.
-mind2web-web-2115,m2w_domain,Mind2Web,test,linkedin,web,Find LinkedIn Learning page and subscribe for the newsletter.
-mind2web-web-2116,m2w_domain,Mind2Web,test,finance.yahoo,web,Show me historical data for EUR/USD.
-mind2web-web-2117,m2w_domain,Mind2Web,test,finance.yahoo,web,Follow the Microsoft Corporation
-mind2web-web-2118,m2w_domain,Mind2Web,test,finance.yahoo,web,Find the most recent press release by NVIDIA Corporation within the last 7 days.
-mind2web-web-2119,m2w_domain,Mind2Web,test,finance.yahoo,web,Give a thumbs up to the top comment about Microsoft stock
-mind2web-web-2120,m2w_domain,Mind2Web,test,craigslist.org,web,Browse apartments with at least 2 bedrooms and 2 bathrooms and a max price of $4000 per month.
-mind2web-web-2121,m2w_domain,Mind2Web,test,craigslist.org,web,Browse job listings for a solar panel installer and hide duplicates
-mind2web-web-2122,m2w_domain,Mind2Web,test,craigslist.org,web,"Browse couches for sale, sort by cheapest and search in titles only."
-mind2web-web-2123,m2w_domain,Mind2Web,test,craigslist.org,web,Browse piano lessons and display listings in map view
-mind2web-web-2124,m2w_domain,Mind2Web,test,craigslist.org,web,Show apartments for rent in Indianapolis with 2 bedrooms from least to most expensive.
-mind2web-web-2125,m2w_domain,Mind2Web,test,adoptapet,web,Create a free alert for a Jack Russell Terrier dog near zip code 10019 sending to buckeye.foobar@gmail.com
-mind2web-web-2126,m2w_domain,Mind2Web,test,epicurious,web,Find a quick and easy European chicken bruch recipe sorted by make again percentage.
-mind2web-web-2127,m2w_domain,Mind2Web,test,glassdoor,web,"Find a job as Data Analyst in New York City with salary above $91,000."
-mind2web-web-2128,m2w_domain,Mind2Web,test,babycenter,web,Find popular baby names for a boy and sort in A-Z.
-mind2web-web-2129,m2w_domain,Mind2Web,test,babycenter,web,What are the newest Getting Pregnant groups?
-mind2web-web-2130,m2w_domain,Mind2Web,test,babycenter,web,Calculate my next menstruation date with my last circle being on 16th March for 22days.
-mind2web-web-2131,m2w_domain,Mind2Web,test,pinterest,web,Disable the Email Notification
-mind2web-web-2132,m2w_domain,Mind2Web,test,pinterest,web,Create a Fitness board.
-mind2web-web-2133,m2w_domain,Mind2Web,test,pinterest,web,Turn off the pins I saw today.
-mind2web-web-2134,m2w_domain,Mind2Web,test,pinterest,web,Browse male outfit ideas for a beach vacation.
-mind2web-web-2135,m2w_domain,Mind2Web,test,pinterest,web,Follow a profile from the low poly category.
-mind2web-web-2136,m2w_domain,Mind2Web,test,pinterest,web,Disable Autoplay feature for videos
-mind2web-web-2137,m2w_domain,Mind2Web,test,pinterest,web,Get the share link of the pinner Sticker Mania
-mind2web-web-2138,m2w_domain,Mind2Web,test,pinterest,web,Download 5 good Christian quotes
-mind2web-web-2139,m2w_domain,Mind2Web,test,pinterest,web,Find 2 bodyweight workout routines and save them.
-mind2web-web-2140,m2w_domain,Mind2Web,test,pinterest,web,Save on my pins a Halloween costume image.
-mind2web-web-2141,m2w_domain,Mind2Web,test,accuweather,web,Find the active storms and the current status
-mind2web-web-2142,m2w_domain,Mind2Web,test,accuweather,web,"Check the daily forecast in Madison, WI from March 21 - April 1, 2023."
-mind2web-web-2143,m2w_domain,Mind2Web,test,accuweather,web,I want to see the past hurricanes in the indian ocean in 2020
-mind2web-web-2144,m2w_domain,Mind2Web,test,justice.gov,web,Browse list of Civil Division forms.
-mind2web-web-2145,m2w_domain,Mind2Web,test,justice.gov,web,Find press releases by antitrust division in 2022
-mind2web-web-2146,m2w_domain,Mind2Web,test,ohiomeansjobs.ohio.gov,web,Find an internship in the science and technology industry for a bachelor in Dayton and save the top job.
-mind2web-web-2147,m2w_domain,Mind2Web,test,ohiomeansjobs.ohio.gov,web,Browse marketing jobs and filter by Bachelor's Degree education level
-mind2web-web-2148,m2w_domain,Mind2Web,test,ohio.gov,web,Find the Hiring Guide to hire a small scale business
-mind2web-web-2149,m2w_domain,Mind2Web,test,ohio.gov,web,"Search for early care and education programs for all programs and step up to quality rating with transportation on Saturday from 6 am to noon in Midland, Clinton county, Ohio."
-mind2web-web-2150,m2w_domain,Mind2Web,test,ohio.gov,web,Find the Eligibility details to qualify for Medicaid. The person looking for it has 1 people in household and monthly household income of 1000 USD and zip code of 32350. The person is not pregnant and older or equal to 18. The person is not receving medicare or not age 65 or older. Neither the person nor his/her spouse ever served/are serving in the U.s.military.
-mind2web-web-2151,m2w_domain,Mind2Web,test,cookpad,web,Find a recipe for vegetable soup and then follow the author of the recipe.
-mind2web-web-2152,m2w_domain,Mind2Web,test,cookpad,web,Find a recipe that includes eggplant and mushrooms.
-mind2web-web-2153,m2w_domain,Mind2Web,test,mayoclinic.org,web,Find programs offered in Neuroscience Department.
-mind2web-web-2154,m2w_domain,Mind2Web,test,mayoclinic.org,web,Find florida internship programs in the Mayo Clinic College of Medicine and Science
-mind2web-web-2155,m2w_domain,Mind2Web,test,mayoclinic.org,web,Find possible causes for the symptoms chest pain which is sharp which is accompanied by  anxiety.
-mind2web-web-2156,m2w_domain,Mind2Web,test,mayoclinic.org,web,Find tuition fees for M.D. Program.
-mind2web-web-2157,m2w_domain,Mind2Web,test,mayoclinic.org,web,Show me Diagnoses & Treatment for Female infertility
-mind2web-web-2158,m2w_domain,Mind2Web,test,mayoclinic.org,web,"Find a female MD Cardiologist in Jacksonville, Florida."
-mind2web-web-2159,m2w_domain,Mind2Web,test,mayoclinic.org,web,What are the Symptoms and causes of fever?
-mind2web-web-2160,m2w_domain,Mind2Web,test,mayoclinic.org,web,I want to know about the faculty and staff of the airway biology laboratory
-mind2web-web-2161,m2w_domain,Mind2Web,test,reddit,web,Save a rising post on a community about work
-mind2web-web-2162,m2w_domain,Mind2Web,test,reddit,web,Find the comments made by the user Separate-Camp7202.
-mind2web-web-2163,m2w_domain,Mind2Web,test,finance.google,web,Find the stock price for WWE over the last month.
-mind2web-web-2164,m2w_domain,Mind2Web,test,finance.google,web,Use the search function to find the current stock and percentage change of AMC stock
-mind2web-web-2165,m2w_domain,Mind2Web,test,finance.google,web,Check Europe market of 1 Year chart.
-mind2web-web-2166,m2w_domain,Mind2Web,test,student,web,"Look for a lowest priced entire place of my own for booking in Glasgow, which has gas, heating, cleaning services and gym."
-mind2web-web-2167,m2w_domain,Mind2Web,test,ohiomeansjobs.ohio.gov,web,Look for a part-time job in Amazon delivery station in Columbus for delivery services and save this job to my profile.
-mind2web-web-2168,m2w_domain,Mind2Web,test,bbb.org,web,Open the reviews for a Mc Donald's.
-mind2web-web-2169,m2w_domain,Mind2Web,test,bbb.org,web,Show me the reviews for the auto repair business closest to 10002
-mind2web-web-2170,m2w_domain,Mind2Web,test,bbb.org,web,Open the page to learn more about how to get accredited.
-mind2web-web-2171,m2w_domain,Mind2Web,test,bbb.org,web,Look for the best rated BBB accredited charity near 12023
-mind2web-web-2172,m2w_domain,Mind2Web,test,bbb.org,web,Find contact information for a  roofing contractor that specializes in bathroom remodel with A BBB rating near Hillsboro Oregon.
-mind2web-web-2173,m2w_domain,Mind2Web,test,bbb.org,web,Find the number of scams reported this week for scammers using the name Amazon.
-mind2web-web-2174,m2w_domain,Mind2Web,test,bbb.org,web,Go to the US page to report a scam or fraud.
-mind2web-web-2175,m2w_domain,Mind2Web,test,bbb.org,web,Look up if the phone number 555555555 is a scam
-mind2web-web-2176,m2w_domain,Mind2Web,test,bbb.org,web,"Find a  Landscape Contractors near Milwaukee, WI that specialize in fire pits."
-mind2web-web-2177,m2w_domain,Mind2Web,test,finance.google,web,Add Tesla stock to watchlist.
-mind2web-web-2178,m2w_domain,Mind2Web,test,finance.google,web,Find current price and follow Euro currency.
-mind2web-web-2179,m2w_domain,Mind2Web,test,finance.google,web,Add Google stock to a watch list.
-mind2web-web-2180,m2w_domain,Mind2Web,test,finance.google,web,Follow 1 stock from the gainers list.
-mind2web-web-2181,m2w_domain,Mind2Web,test,udemy,web,"Find the pencil drawing courses having the rating 5 and sort 
+mind2web-web-2001,m2w_domain,Mind2Web,test,https://www.epicurious.com,web,Browse vegan lasagna recipes and sort by Highest rated.
+mind2web-web-2002,m2w_domain,Mind2Web,test,https://www.epicurious.com,web,Find articles about gluten-free desserts.
+mind2web-web-2003,m2w_domain,Mind2Web,test,https://www.epicurious.com,web,"Add a recipe to your ""favorites"" list."
+mind2web-web-2004,m2w_domain,Mind2Web,test,https://www.epicurious.com,web,"Find a most reviewed dairy free pasta recipe, which can be prepared from 5 or less ingredients and save it."
+mind2web-web-2005,m2w_domain,Mind2Web,test,https://www.student.com,web,with a $100 to $300 budget search for student accommodation close to London business school with a no visa no pay cancellation policy
+mind2web-web-2006,m2w_domain,Mind2Web,test,https://www.accuweather.com,web,Play a past episode of one of their podcasts
+mind2web-web-2007,m2w_domain,Mind2Web,test,https://www.accuweather.com,web,Check the hourly forecast for Boston.
+mind2web-web-2008,m2w_domain,Mind2Web,test,https://www.accuweather.com,web,Look up the pollutants of New York City.
+mind2web-web-2009,m2w_domain,Mind2Web,test,https://www.accuweather.com,web,"Find out the wind speed and humidity in Tallahassee, FL for today."
+mind2web-web-2010,m2w_domain,Mind2Web,test,https://www.student.com,web,Find a property which is nearest to  Aston University.
+mind2web-web-2011,m2w_domain,Mind2Web,test,https://www.zocdoc.com,web,Find a Metlife Vision plus affiliated Gujarati-speaking male Chiropractor within 5 miles of New York for an in-person visit as soon as possible.
+mind2web-web-2012,m2w_domain,Mind2Web,test,https://www.zocdoc.com,web,Check reviews of Dr. Theresa Meotti.
+mind2web-web-2013,m2w_domain,Mind2Web,test,https://www.indeed.com,web,Open the job search I've been looking recently.
+mind2web-web-2014,m2w_domain,Mind2Web,test,https://www.indeed.com,web,Look for customer service jobs in Chicago that have a minimum wage of $20 per hour and require no experience.
+mind2web-web-2015,m2w_domain,Mind2Web,test,https://www.indeed.com,web,Look for healthcare jobs in Los Angeles that require a Bachelor's degree and don't require weekends.
+mind2web-web-2016,m2w_domain,Mind2Web,test,https://www.indeed.com,web,Browse home office jobs with salary over 25000.
+mind2web-web-2017,m2w_domain,Mind2Web,test,https://www.adoptapet.com,web,Find a white female kitten within 35 miles of zip 77494.
+mind2web-web-2018,m2w_domain,Mind2Web,test,https://www.adoptapet.com,web,Browse senior spayed/neutered dogs near zip code 90028.
+mind2web-web-2019,m2w_domain,Mind2Web,test,https://www.student.com,web,Save 2 different properties with lowest price in San Diego to wishlist.
+mind2web-web-2020,m2w_domain,Mind2Web,test,https://www.healthgrades.com,web,Browse dentists 10 miles near zip code 90028 and filter by 4 stars and up
+mind2web-web-2021,m2w_domain,Mind2Web,test,https://www.healthgrades.com,web,Find the closest 5-star rated dentist to zip code 98011
+mind2web-web-2022,m2w_domain,Mind2Web,test,https://www.drugs.com,web,Browse the natural products database.
+mind2web-web-2023,m2w_domain,Mind2Web,test,https://www.drugs.com,web,Find the Drug Interaction Report for viagra and alcohol
+mind2web-web-2024,m2w_domain,Mind2Web,test,https://www.drugs.com,web,Show side effects of Tamiflu.
+mind2web-web-2025,m2w_domain,Mind2Web,test,https://www.drugs.com,web,Browse Humira dosage information.
+mind2web-web-2026,m2w_domain,Mind2Web,test,https://www.drugs.com,web,Show the list of Medications for Anxiety
+mind2web-web-2027,m2w_domain,Mind2Web,test,https://www.drugs.com,web,Check drug interaction for melatonin and Folate Forte.
+mind2web-web-2028,m2w_domain,Mind2Web,test,https://www.drugs.com,web,Check the interaction between Novolin N and Novolin R.
+mind2web-web-2029,m2w_domain,Mind2Web,test,https://www.drugs.com,web,find the interactions between Eulexin and hepatic dysfunction.
+mind2web-web-2030,m2w_domain,Mind2Web,test,https://www.drugs.com,web,Find the side effects of taking Montelukast
+mind2web-web-2031,m2w_domain,Mind2Web,test,https://www.ups.com,web,Find the shiping cost of a Common medium sized box in flat rate shipping and compare with other parcel services
+mind2web-web-2032,m2w_domain,Mind2Web,test,https://www.ups.com,web,Go to the page to schedule a pickup in the US.
+mind2web-web-2033,m2w_domain,Mind2Web,test,https://www.ups.com,web,Track order number 123456 for US.
+mind2web-web-2034,m2w_domain,Mind2Web,test,https://www.ups.com,web,Search the Pickup Request Status for the Pickup Request with the Number 123456
+mind2web-web-2035,m2w_domain,Mind2Web,test,https://www.ups.com,web,"Find a UPS Access Point near SPRING, TX and services provided by them"
+mind2web-web-2036,m2w_domain,Mind2Web,test,https://www.thumbtack.com,web,Get a free cost estimate for a house cleaner
+mind2web-web-2037,m2w_domain,Mind2Web,test,https://www.thumbtack.com,web,View the profile of a Wedding Photographer near 10203 for a 4 hour wedding on april 13
+mind2web-web-2038,m2w_domain,Mind2Web,test,https://www.thumbtack.com,web,Find a personal trainer service at 10040 for a 25 year old client aiming to build muscle.
+mind2web-web-2039,m2w_domain,Mind2Web,test,https://www.thumbtack.com,web,find electricians near 10203
+mind2web-web-2040,m2w_domain,Mind2Web,test,https://www.thumbtack.com,web,Find linux platform software developers in 10080 who master the python language and java language with web interface project type.
+mind2web-web-2041,m2w_domain,Mind2Web,test,https://www.thumbtack.com,web,Find a house cleaning service in 10001 on a weekly basis.
+mind2web-web-2042,m2w_domain,Mind2Web,test,https://www.thumbtack.com,web,Find and contact for price a plumber near 13020 for toilet repair
+mind2web-web-2043,m2w_domain,Mind2Web,test,https://www.thumbtack.com,web,Find the best weekly morning deep house cleaning services for a two-bedroom and two-bathroom house without a pet in zip 07718.
+mind2web-web-2044,m2w_domain,Mind2Web,test,https://x.com,web,Follow SpaceX and like and bookmark the latest tweet.
+mind2web-web-2045,m2w_domain,Mind2Web,test,https://www.usps.com,web,Update the quantity to 5 for the  Souvenir sheet in the shopping cart.
+mind2web-web-2046,m2w_domain,Mind2Web,test,https://finance.google.com,web,Create a new portfolio called AI and add one AI stock to it.
+mind2web-web-2047,m2w_domain,Mind2Web,test,https://www.thumbtack.com,web,Check the availability for a service of Lawn Mower repair which does not start
+mind2web-web-2048,m2w_domain,Mind2Web,test,https://www.extraspace.com,web,Find the largest size unit at BIRMINGHAM SELF STORAGE AT 720 MONTCLAIR RD and view the size description and size help.
+mind2web-web-2049,m2w_domain,Mind2Web,test,https://www.extraspace.com,web,find RV storage near you sorted by location with controlled climate
+mind2web-web-2050,m2w_domain,Mind2Web,test,https://www.extraspace.com,web,"Find a small storage near Albany, New York location."
+mind2web-web-2051,m2w_domain,Mind2Web,test,https://www.reddit.com,web,Find and join community of Fortnite with most members.
+mind2web-web-2052,m2w_domain,Mind2Web,test,https://www.reddit.com,web,"Create a post on Cryptocurrency suggestions and save it as a draft with the content ""Please suggest crypto trading which is profitable."""
+mind2web-web-2053,m2w_domain,Mind2Web,test,https://www.reddit.com,web,"Start and save as a draft a post titled ""Post"" with nothing written on it"
+mind2web-web-2054,m2w_domain,Mind2Web,test,https://www.reddit.com,web,Search for a comment about hip hop on the post about meme with the most  comments from the last week
+mind2web-web-2055,m2w_domain,Mind2Web,test,https://www.student.com,web,"Browse housing options near University of California, Los Angeles that is rated at least 4 stars and included Wi-Fi"
+mind2web-web-2056,m2w_domain,Mind2Web,test,https://www.epicurious.com,web,Browse chicken soup recipes that can be made with Instant Pot.
+mind2web-web-2057,m2w_domain,Mind2Web,test,https://www.indeed.com,web,Find a grocery store cashier job in Florida.
+mind2web-web-2058,m2w_domain,Mind2Web,test,https://www.indeed.com,web,"Look and apply if found, a Job in Zoho Corporation in Human resource for a salary above 30k for a master's degree holder."
+mind2web-web-2059,m2w_domain,Mind2Web,test,https://www.indeed.com,web,Find reviews for Calico Life Science and mark a review which is helpful.
+mind2web-web-2060,m2w_domain,Mind2Web,test,https://www.indeed.com,web,Search for remote software engineer jobs in United States
+mind2web-web-2061,m2w_domain,Mind2Web,test,https://www.babycenter.com,web,Search and join a group about diabetes
+mind2web-web-2062,m2w_domain,Mind2Web,test,https://www.babycenter.com,web,What are the similar names to the name carl
+mind2web-web-2063,m2w_domain,Mind2Web,test,https://www.babycenter.com,web,Show me community posts about pregnancy fever from the past 30 days
+mind2web-web-2064,m2w_domain,Mind2Web,test,https://www.pensketruckrental.com,web,Get help planning your move by finding Loading & Towing tips
+mind2web-web-2065,m2w_domain,Mind2Web,test,https://www.pensketruckrental.com,web,"Get a quote for a pick up in Detroit, MI and drop of in Cleveland, OH on April 12th for a 12 foot truck."
+mind2web-web-2066,m2w_domain,Mind2Web,test,https://www.pensketruckrental.com,web,Go to the page with information on how to load a moving truck.
+mind2web-web-2067,m2w_domain,Mind2Web,test,https://www.pensketruckrental.com,web,View the Truck Side-By-Side Comparison Chart and then select the truck that is good for moving 3-5 rooms
+mind2web-web-2068,m2w_domain,Mind2Web,test,https://www.pensketruckrental.com,web,Get a moving quote for a 12 foot truck from Oregon to Cleveland.
+mind2web-web-2069,m2w_domain,Mind2Web,test,https://www.umich.edu,web,Find the internships/Research opportunities in summer that are off campus.
+mind2web-web-2070,m2w_domain,Mind2Web,test,https://www.umich.edu,web,Find registration deadlines for fall 2024 academic term
+mind2web-web-2071,m2w_domain,Mind2Web,test,https://www.umich.edu,web,Find tuition & fees for full term graduate students in the college of engineering for the academic year 2022-2023
+mind2web-web-2072,m2w_domain,Mind2Web,test,https://www.umich.edu,web,Find the time and location of the first available Campus Tour in April 2023 for First-Year Prospective students
+mind2web-web-2073,m2w_domain,Mind2Web,test,https://www.umich.edu,web,Check whether there is any Undergraduate Information Session for First-Year Direct Entry into the bachelor school of nursing program
+mind2web-web-2074,m2w_domain,Mind2Web,test,https://www.umich.edu,web,Search for LSA courde Guide
+mind2web-web-2075,m2w_domain,Mind2Web,test,https://www.umich.edu,web,Get the information of Tution Fees for a full time course for undergrad study in college of Engineering
+mind2web-web-2076,m2w_domain,Mind2Web,test,https://www.umich.edu,web,Find the list of undergraduate majors and degrees for the schools of public health and public policy
+mind2web-web-2077,m2w_domain,Mind2Web,test,https://www.osu.edu,web,Find a class for animal science in The ohio state university
+mind2web-web-2078,m2w_domain,Mind2Web,test,https://finance.yahoo.com,web,"Find the closing stock price for Tesla on March 17, 2023."
+mind2web-web-2079,m2w_domain,Mind2Web,test,https://finance.yahoo.com,web,Find the list for High-Yield Dividend Stocks and share it on Twitter
+mind2web-web-2080,m2w_domain,Mind2Web,test,https://finance.yahoo.com,web,Open chart for BTC-USD.
+mind2web-web-2081,m2w_domain,Mind2Web,test,https://finance.yahoo.com,web,Create a new portfolio called Tech and add Microsfot.
+mind2web-web-2082,m2w_domain,Mind2Web,test,https://www.mayoclinic.org,web,Find a doctor for back pain in Rochester
+mind2web-web-2083,m2w_domain,Mind2Web,test,https://careers.walmart.com,web,Show me jobs for MBA & Graduate Internships.
+mind2web-web-2084,m2w_domain,Mind2Web,test,https://careers.walmart.com,web,Show me all opening for sam's club jobs
+mind2web-web-2085,m2w_domain,Mind2Web,test,https://careers.walmart.com,web,Find jobs available in Atlanta as a software engineer.
+mind2web-web-2086,m2w_domain,Mind2Web,test,https://careers.walmart.com,web,Find support services jobs in Bentonville in the state of Arkansas.
+mind2web-web-2087,m2w_domain,Mind2Web,test,https://stocktwits.com,web,Join a Cryptocurrencies public room.
+mind2web-web-2088,m2w_domain,Mind2Web,test,https://stocktwits.com,web,View the chart for the stock TSLA and adjust the time frame to show the past 6 months.
+mind2web-web-2089,m2w_domain,Mind2Web,test,https://stocktwits.com,web,Create an alert for Tesla stock for when the price drops below $300
+mind2web-web-2090,m2w_domain,Mind2Web,test,https://x.com,web,Start following the @amazon twitter account
+mind2web-web-2091,m2w_domain,Mind2Web,test,https://x.com,web,Follow the Dallas Cowboys twitter account.
+mind2web-web-2092,m2w_domain,Mind2Web,test,https://www.student.com,web,"compare two rooms from the lowest  Student accommodation in Ann Arbor, university of Michigan North Campus"
+mind2web-web-2093,m2w_domain,Mind2Web,test,https://www.healthline.com,web,Find me sweet snacks for vegetarians that can be done in more than 5 minutes
+mind2web-web-2094,m2w_domain,Mind2Web,test,https://www.healthline.com,web,Show me the causes and risks for bipolar disorder.
+mind2web-web-2095,m2w_domain,Mind2Web,test,https://www.healthline.com,web,Join the mindful eating challenge.
+mind2web-web-2096,m2w_domain,Mind2Web,test,https://www.healthline.com,web,Find an article about treatment options of acid influx and vote the article as helpful and informative.
+mind2web-web-2097,m2w_domain,Mind2Web,test,https://www.healthline.com,web,"Take a weight management quiz to find a motivating article for a non excersizing, mostly eating out and can't control portions and cravings, and who has a strong support system, enjoys traveling, loves family time and cooking."
+mind2web-web-2098,m2w_domain,Mind2Web,test,https://www.healthgrades.com,web,Check reviews of SSM Health Cardinal Glennon Children's Hospital.
+mind2web-web-2099,m2w_domain,Mind2Web,test,https://www.healthgrades.com,web,"Find acupunctures within 50 miles from Mountain Pass, CA that accept Blue Cross Blue Shield PPO insurance plan."
+mind2web-web-2100,m2w_domain,Mind2Web,test,https://www.healthgrades.com,web,"Find the highest-rated doctor for knee replacement near Glendale, New York, who is between 40-50 years of age, is available within 2 weeks, and can converse in Chinese."
+mind2web-web-2101,m2w_domain,Mind2Web,test,https://www.dmv.virginia.gov,web,"Schedule an appointment for motorcycle Knowledge test at 8:30 AM on Apr 18 at the Abingdon office. My name is James Smith, email is abac@abc.com and mobile phone number is 888899778."
+mind2web-web-2102,m2w_domain,Mind2Web,test,https://www.dmv.virginia.gov,web,Browse the page with information about driver license eligibility for non residents.
+mind2web-web-2103,m2w_domain,Mind2Web,test,https://www.dmv.virginia.gov,web,Find out how to transfer the title of vehicle when the owner is deceased.
+mind2web-web-2104,m2w_domain,Mind2Web,test,https://www.dmv.virginia.gov,web,Find out the next date  when the dmv  mobile office will be in highland?
+mind2web-web-2105,m2w_domain,Mind2Web,test,https://www.dmv.virginia.gov,web,Show Teen Driver Safety program information.
+mind2web-web-2106,m2w_domain,Mind2Web,test,https://www.dmv.virginia.gov,web,Submit request for vehicle registration renewal.
+mind2web-web-2107,m2w_domain,Mind2Web,test,https://www.dmv.virginia.gov,web,Find the requirements and Exemptions for emission Inspection
+mind2web-web-2108,m2w_domain,Mind2Web,test,https://www.dmv.virginia.gov,web,Find a study guide to practice for the driving test.
+mind2web-web-2109,m2w_domain,Mind2Web,test,https://www.dmv.virginia.gov,web,Find a DMV center in Richmond
+mind2web-web-2110,m2w_domain,Mind2Web,test,https://www.usps.com,web,Find the nearest location to zip code 54620 that offers size 4 P.O. Boxes.
+mind2web-web-2111,m2w_domain,Mind2Web,test,https://www.usps.com,web,Calculate the price to ship a large flat rate box from 77449 to 77084 at the first available date and time.
+mind2web-web-2112,m2w_domain,Mind2Web,test,https://www.linkedin.com,web,"Search for Calico Life Science company and follow, like the first post."
+mind2web-web-2113,m2w_domain,Mind2Web,test,https://www.linkedin.com,web,Find Data Entry or similar jobs and save two of them.
+mind2web-web-2114,m2w_domain,Mind2Web,test,https://www.linkedin.com,web,Find Customer Support or most related job in New York.
+mind2web-web-2115,m2w_domain,Mind2Web,test,https://www.linkedin.com,web,Find LinkedIn Learning page and subscribe for the newsletter.
+mind2web-web-2116,m2w_domain,Mind2Web,test,https://finance.yahoo.com,web,Show me historical data for EUR/USD.
+mind2web-web-2117,m2w_domain,Mind2Web,test,https://finance.yahoo.com,web,Follow the Microsoft Corporation
+mind2web-web-2118,m2w_domain,Mind2Web,test,https://finance.yahoo.com,web,Find the most recent press release by NVIDIA Corporation within the last 7 days.
+mind2web-web-2119,m2w_domain,Mind2Web,test,https://finance.yahoo.com,web,Give a thumbs up to the top comment about Microsoft stock
+mind2web-web-2120,m2w_domain,Mind2Web,test,https://www.craigslist.org,web,Browse apartments with at least 2 bedrooms and 2 bathrooms and a max price of $4000 per month.
+mind2web-web-2121,m2w_domain,Mind2Web,test,https://www.craigslist.org,web,Browse job listings for a solar panel installer and hide duplicates
+mind2web-web-2122,m2w_domain,Mind2Web,test,https://www.craigslist.org,web,"Browse couches for sale, sort by cheapest and search in titles only."
+mind2web-web-2123,m2w_domain,Mind2Web,test,https://www.craigslist.org,web,Browse piano lessons and display listings in map view
+mind2web-web-2124,m2w_domain,Mind2Web,test,https://www.craigslist.org,web,Show apartments for rent in Indianapolis with 2 bedrooms from least to most expensive.
+mind2web-web-2125,m2w_domain,Mind2Web,test,https://www.adoptapet.com,web,Create a free alert for a Jack Russell Terrier dog near zip code 10019 sending to buckeye.foobar@gmail.com
+mind2web-web-2126,m2w_domain,Mind2Web,test,https://www.epicurious.com,web,Find a quick and easy European chicken bruch recipe sorted by make again percentage.
+mind2web-web-2127,m2w_domain,Mind2Web,test,https://www.glassdoor.com,web,"Find a job as Data Analyst in New York City with salary above $91,000."
+mind2web-web-2128,m2w_domain,Mind2Web,test,https://www.babycenter.com,web,Find popular baby names for a boy and sort in A-Z.
+mind2web-web-2129,m2w_domain,Mind2Web,test,https://www.babycenter.com,web,What are the newest Getting Pregnant groups?
+mind2web-web-2130,m2w_domain,Mind2Web,test,https://www.babycenter.com,web,Calculate my next menstruation date with my last circle being on 16th March for 22days.
+mind2web-web-2131,m2w_domain,Mind2Web,test,https://www.pinterest.com,web,Disable the Email Notification
+mind2web-web-2132,m2w_domain,Mind2Web,test,https://www.pinterest.com,web,Create a Fitness board.
+mind2web-web-2133,m2w_domain,Mind2Web,test,https://www.pinterest.com,web,Turn off the pins I saw today.
+mind2web-web-2134,m2w_domain,Mind2Web,test,https://www.pinterest.com,web,Browse male outfit ideas for a beach vacation.
+mind2web-web-2135,m2w_domain,Mind2Web,test,https://www.pinterest.com,web,Follow a profile from the low poly category.
+mind2web-web-2136,m2w_domain,Mind2Web,test,https://www.pinterest.com,web,Disable Autoplay feature for videos
+mind2web-web-2137,m2w_domain,Mind2Web,test,https://www.pinterest.com,web,Get the share link of the pinner Sticker Mania
+mind2web-web-2138,m2w_domain,Mind2Web,test,https://www.pinterest.com,web,Download 5 good Christian quotes
+mind2web-web-2139,m2w_domain,Mind2Web,test,https://www.pinterest.com,web,Find 2 bodyweight workout routines and save them.
+mind2web-web-2140,m2w_domain,Mind2Web,test,https://www.pinterest.com,web,Save on my pins a Halloween costume image.
+mind2web-web-2141,m2w_domain,Mind2Web,test,https://www.accuweather.com,web,Find the active storms and the current status
+mind2web-web-2142,m2w_domain,Mind2Web,test,https://www.accuweather.com,web,"Check the daily forecast in Madison, WI from March 21 - April 1, 2023."
+mind2web-web-2143,m2w_domain,Mind2Web,test,https://www.accuweather.com,web,I want to see the past hurricanes in the indian ocean in 2020
+mind2web-web-2144,m2w_domain,Mind2Web,test,https://www.justice.gov,web,Browse list of Civil Division forms.
+mind2web-web-2145,m2w_domain,Mind2Web,test,https://www.justice.gov,web,Find press releases by antitrust division in 2022
+mind2web-web-2146,m2w_domain,Mind2Web,test,https://ohiomeansjobs.ohio.gov,web,Find an internship in the science and technology industry for a bachelor in Dayton and save the top job.
+mind2web-web-2147,m2w_domain,Mind2Web,test,https://ohiomeansjobs.ohio.gov,web,Browse marketing jobs and filter by Bachelor's Degree education level
+mind2web-web-2148,m2w_domain,Mind2Web,test,https://www.ohio.gov,web,Find the Hiring Guide to hire a small scale business
+mind2web-web-2149,m2w_domain,Mind2Web,test,https://www.ohio.gov,web,"Search for early care and education programs for all programs and step up to quality rating with transportation on Saturday from 6 am to noon in Midland, Clinton county, Ohio."
+mind2web-web-2150,m2w_domain,Mind2Web,test,https://www.ohio.gov,web,Find the Eligibility details to qualify for Medicaid. The person looking for it has 1 people in household and monthly household income of 1000 USD and zip code of 32350. The person is not pregnant and older or equal to 18. The person is not receving medicare or not age 65 or older. Neither the person nor his/her spouse ever served/are serving in the U.s.military.
+mind2web-web-2151,m2w_domain,Mind2Web,test,https://cookpad.com,web,Find a recipe for vegetable soup and then follow the author of the recipe.
+mind2web-web-2152,m2w_domain,Mind2Web,test,https://cookpad.com,web,Find a recipe that includes eggplant and mushrooms.
+mind2web-web-2153,m2w_domain,Mind2Web,test,https://www.mayoclinic.org,web,Find programs offered in Neuroscience Department.
+mind2web-web-2154,m2w_domain,Mind2Web,test,https://www.mayoclinic.org,web,Find florida internship programs in the Mayo Clinic College of Medicine and Science
+mind2web-web-2155,m2w_domain,Mind2Web,test,https://www.mayoclinic.org,web,Find possible causes for the symptoms chest pain which is sharp which is accompanied by  anxiety.
+mind2web-web-2156,m2w_domain,Mind2Web,test,https://www.mayoclinic.org,web,Find tuition fees for M.D. Program.
+mind2web-web-2157,m2w_domain,Mind2Web,test,https://www.mayoclinic.org,web,Show me Diagnoses & Treatment for Female infertility
+mind2web-web-2158,m2w_domain,Mind2Web,test,https://www.mayoclinic.org,web,"Find a female MD Cardiologist in Jacksonville, Florida."
+mind2web-web-2159,m2w_domain,Mind2Web,test,https://www.mayoclinic.org,web,What are the Symptoms and causes of fever?
+mind2web-web-2160,m2w_domain,Mind2Web,test,https://www.mayoclinic.org,web,I want to know about the faculty and staff of the airway biology laboratory
+mind2web-web-2161,m2w_domain,Mind2Web,test,https://www.reddit.com,web,Save a rising post on a community about work
+mind2web-web-2162,m2w_domain,Mind2Web,test,https://www.reddit.com,web,Find the comments made by the user Separate-Camp7202.
+mind2web-web-2163,m2w_domain,Mind2Web,test,https://finance.google.com,web,Find the stock price for WWE over the last month.
+mind2web-web-2164,m2w_domain,Mind2Web,test,https://finance.google.com,web,Use the search function to find the current stock and percentage change of AMC stock
+mind2web-web-2165,m2w_domain,Mind2Web,test,https://finance.google.com,web,Check Europe market of 1 Year chart.
+mind2web-web-2166,m2w_domain,Mind2Web,test,https://www.student.com,web,"Look for a lowest priced entire place of my own for booking in Glasgow, which has gas, heating, cleaning services and gym."
+mind2web-web-2167,m2w_domain,Mind2Web,test,https://ohiomeansjobs.ohio.gov,web,Look for a part-time job in Amazon delivery station in Columbus for delivery services and save this job to my profile.
+mind2web-web-2168,m2w_domain,Mind2Web,test,https://www.bbb.org,web,Open the reviews for a Mc Donald's.
+mind2web-web-2169,m2w_domain,Mind2Web,test,https://www.bbb.org,web,Show me the reviews for the auto repair business closest to 10002
+mind2web-web-2170,m2w_domain,Mind2Web,test,https://www.bbb.org,web,Open the page to learn more about how to get accredited.
+mind2web-web-2171,m2w_domain,Mind2Web,test,https://www.bbb.org,web,Look for the best rated BBB accredited charity near 12023
+mind2web-web-2172,m2w_domain,Mind2Web,test,https://www.bbb.org,web,Find contact information for a  roofing contractor that specializes in bathroom remodel with A BBB rating near Hillsboro Oregon.
+mind2web-web-2173,m2w_domain,Mind2Web,test,https://www.bbb.org,web,Find the number of scams reported this week for scammers using the name Amazon.
+mind2web-web-2174,m2w_domain,Mind2Web,test,https://www.bbb.org,web,Go to the US page to report a scam or fraud.
+mind2web-web-2175,m2w_domain,Mind2Web,test,https://www.bbb.org,web,Look up if the phone number 555555555 is a scam
+mind2web-web-2176,m2w_domain,Mind2Web,test,https://www.bbb.org,web,"Find a  Landscape Contractors near Milwaukee, WI that specialize in fire pits."
+mind2web-web-2177,m2w_domain,Mind2Web,test,https://finance.google.com,web,Add Tesla stock to watchlist.
+mind2web-web-2178,m2w_domain,Mind2Web,test,https://finance.google.com,web,Find current price and follow Euro currency.
+mind2web-web-2179,m2w_domain,Mind2Web,test,https://finance.google.com,web,Add Google stock to a watch list.
+mind2web-web-2180,m2w_domain,Mind2Web,test,https://finance.google.com,web,Follow 1 stock from the gainers list.
+mind2web-web-2181,m2w_domain,Mind2Web,test,https://www.udemy.com,web,"Find the pencil drawing courses having the rating 5 and sort 
 then them by highest rating"
-mind2web-web-2182,m2w_domain,Mind2Web,test,landwatch,web,"Look for the latest posted undeveloped land, farm, and ranches under 10 acres in Dallas County, Iowa, and save my search with instant update option for later usage."
-mind2web-web-2183,m2w_domain,Mind2Web,test,landwatch,web,"Show houses for sale in Maryland with maximum price of $60,000."
-mind2web-web-2184,m2w_domain,Mind2Web,test,landwatch,web,"Find homes for auction in Wagoner County, Oklahoma, and contact the seller of the tiniest land."
-mind2web-web-2185,m2w_domain,Mind2Web,test,landwatch,web,"Find Farms land in Wilkes County, NC with lowest price."
-mind2web-web-2186,m2w_domain,Mind2Web,test,fedex,web,Find the closest drop off location to zip code 90028
-mind2web-web-2187,m2w_domain,Mind2Web,test,fedex,web,Find a staffed FedEx location near zip code 10019 to return a package
-mind2web-web-2188,m2w_domain,Mind2Web,test,fedex,web,"check large printing cost for Architecture, Construction & Engineering in paper size 18*24, full color in portrait with left edge binding."
-mind2web-web-2189,m2w_domain,Mind2Web,test,ohiomeansjobs.ohio.gov,web,Browse web design jobs and filter by Entry level
-mind2web-web-2190,m2w_domain,Mind2Web,test,ohiomeansjobs.ohio.gov,web,"Find a permanent job in Logistics within 20 miles of New York, zip 11005, in the middle-income range for a high school diploma holder."
-mind2web-web-2191,m2w_domain,Mind2Web,test,uhaul,web,Browse medium sized climate-controlled storage units in Los Angeles.
-mind2web-web-2192,m2w_domain,Mind2Web,test,uhaul,web,Update from a 15' truck to a 20' truck and get new quote.
-mind2web-web-2193,m2w_domain,Mind2Web,test,movoto,web,Find a home for rent in Anchorage Alaska for less than 800$/month.
-mind2web-web-2194,m2w_domain,Mind2Web,test,movoto,web,"Find a mobile home for sale in Hanover PA, that is not pending."
-mind2web-web-2195,m2w_domain,Mind2Web,test,movoto,web,"Find newly constructed homes for sale within 10 miles of zip 11001, with prices between 350k to 550k for a single family with 1 bedroom and 1 bathroom."
-mind2web-web-2196,m2w_domain,Mind2Web,test,movoto,web,"Find the lowest price land in Huntsville, Alabama within the 150k to 250 price range and request an in-person visit on March 26, 9 am."
-mind2web-web-2197,m2w_domain,Mind2Web,test,healthline,web,Sign up for the Gut Check Challenge with the email address of buck19915@gmail.com.
-mind2web-web-2198,m2w_domain,Mind2Web,test,healthline,web,"Take a newsletter subscription with my email id (buckeye.foobar@gmail.com) for Allergies and asthma, Anxiety and depression, nutrition, diabetes, breast cancer, and migraine with email id."
-mind2web-web-2199,m2w_domain,Mind2Web,test,healthline,web,Browse articles for breast cancer treatments.
-mind2web-web-2200,m2w_domain,Mind2Web,test,hiring.amazon,web,Find details about the benefits of 20 weeks of fully paid leave.
-mind2web-web-2201,m2w_domain,Mind2Web,test,hiring.amazon,web,"Find Fulfillment Center jobs within 50 miles of Lincoln, NE, USA."
-mind2web-web-2202,m2w_domain,Mind2Web,test,hiring.amazon,web,search regular daytime jobs around 44278 that I can start within a week or two.
-mind2web-web-2203,m2w_domain,Mind2Web,test,hiring.amazon,web,Search for night shift job as a associate.
-mind2web-web-2204,m2w_domain,Mind2Web,test,hiring.amazon,web,"Find available jobs in Omaha and apply to Thu, Fri, Sat shift jobs in fullfilment center if available."
-mind2web-web-2205,m2w_domain,Mind2Web,test,healthline,web,Find a vegan diet to lose weight
-mind2web-web-2206,m2w_domain,Mind2Web,test,healthline,web,What are the side effects of amoxicillin?
-mind2web-web-2207,m2w_domain,Mind2Web,test,healthline,web,Find healthy savory vegan snack recipes which can be cooked within 5 minutes and contain a high level of protein.
-mind2web-web-2208,m2w_domain,Mind2Web,test,healthline,web,Find a list of topics about sleep disorders.
-mind2web-web-2209,m2w_domain,Mind2Web,test,healthline,web,Show me information about treatments for IBD
-mind2web-web-2210,m2w_domain,Mind2Web,test,fedex,web,"Schedule a one-time pickup for today for a package. Pay with mastercard 4564456745689874, cvv 265 expire at 01/26."
-mind2web-web-2211,m2w_domain,Mind2Web,test,fedex,web,Find jobs in Retail positions in United States.
-mind2web-web-2212,m2w_domain,Mind2Web,test,fedex,web,Find out how to schedule a recurring pickup
-mind2web-web-2213,m2w_domain,Mind2Web,test,fedex,web,calculate rate for LTL class 50 food shipment with 2 5000lb in cartons worth $20000 with residential pickup and delivery from Chicago to Kansas city on March 30th.
-mind2web-web-2214,m2w_domain,Mind2Web,test,drugs,web,"Display the search results for pill 123456, white and round."
-mind2web-web-2215,m2w_domain,Mind2Web,test,adoptapet,web,Find white young male german shepherd dogs within 50 miles of zip 78613.
-mind2web-web-2216,m2w_domain,Mind2Web,test,adoptapet,web,Find an adult husky near zip code 10019.
-mind2web-web-2217,m2w_domain,Mind2Web,test,finance.yahoo,web,Show Equity Screener for Mid Cap in Healthcare sector.
-mind2web-web-2218,m2w_domain,Mind2Web,test,student,web,Add to my wishlist the most expensive option to rent in New york
-mind2web-web-2219,m2w_domain,Mind2Web,test,udemy,web,What are the beginner favorites startup courses
-mind2web-web-2220,m2w_domain,Mind2Web,test,udemy,web,Show me the latest Public Speaking Courses rated 4.5 or greater.
-mind2web-web-2221,m2w_domain,Mind2Web,test,udemy,web,Sign up for new tutors.
-mind2web-web-2222,m2w_domain,Mind2Web,test,udemy,web,Search for newest Linux Administraion courses with 4.5 rating.
-mind2web-web-2223,m2w_domain,Mind2Web,test,udemy,web,Find  meditation and sound therapy rated 3.5 and up between 1-3 hours for beginners with French subtitles.
-mind2web-web-2224,m2w_domain,Mind2Web,test,hiring.amazon,web,check the most recent full time medical health and safety jobs available in the US
-mind2web-web-2225,m2w_domain,Mind2Web,test,hiring.amazon,web,learn more about Apprenticeships & Certifications program
-mind2web-web-2226,m2w_domain,Mind2Web,test,student,web,Find private room accommodation rentals near University of Oxford.
-mind2web-web-2227,m2w_domain,Mind2Web,test,glassdoor,web,Check employee reviews and ratings for Microsoft.
-mind2web-web-2228,m2w_domain,Mind2Web,test,gov.uk,web,Find the procedure to get the Doctoral Loan and when the application will open for the year 2023
-mind2web-web-2229,m2w_domain,Mind2Web,test,gov.uk,web,Show information regarding Carer's Credit for Disabled people.
-mind2web-web-2230,m2w_domain,Mind2Web,test,gov.uk,web,Show me current alerts.
-mind2web-web-2231,m2w_domain,Mind2Web,test,gov.uk,web,Find eligibility for Jobseeker's Allowance (JSA).
-mind2web-web-2232,m2w_domain,Mind2Web,test,gov.uk,web,Find a sales executive job in Manchester
-mind2web-web-2233,m2w_domain,Mind2Web,test,stocktwits,web,Show me the liked posts from a user that has recently posted about btc
-mind2web-web-2234,m2w_domain,Mind2Web,test,thumbtack,web,Estimate the cost of a photographer in 07055 for a 4 hour project
-mind2web-web-2235,m2w_domain,Mind2Web,test,thumbtack,web,Find a private dog training service for aggressive behavior modification like barking and biting near 90011 and book a session for 1-year-old medium sized dog at my home only during weekends.
-mind2web-web-2236,m2w_domain,Mind2Web,test,thumbtack,web,find landscaper service and get a quote to remove trees and include help to identify items to be removed at my home.
-mind2web-web-2237,m2w_domain,Mind2Web,test,craigslist.org,web,Browse for pets to adopt and only show listings with images
-mind2web-web-2238,m2w_domain,Mind2Web,test,craigslist.org,web,Find a full time copywriter job in New York City and apply with my details.
-mind2web-web-2239,m2w_domain,Mind2Web,test,craigslist.org,web,Get the email address of anyone who has poted a listing today for theatre tickets for the show A Doll's House within 50 miles of the zip code 10001.
-mind2web-web-2240,m2w_domain,Mind2Web,test,craigslist.org,web,Browse dog friendly vacation rentals that offer air conditioning and a carport.
-mind2web-web-2241,m2w_domain,Mind2Web,test,craigslist.org,web,Browse washing machines for sale and only show listings posted today
-mind2web-web-2242,m2w_domain,Mind2Web,test,craigslist.org,web,"Browse Iphone X for sale that are in good condition, has a max price of 400, and search in titles only."
-mind2web-web-2243,m2w_domain,Mind2Web,test,craigslist.org,web,Search for a part-time job as a cashier.
-mind2web-web-2244,m2w_domain,Mind2Web,test,craigslist.org,web,"Find the newest garage sale in Phoenix, Arizona, on March 31 and print the details of the garage sale, which is selling old toys."
-mind2web-web-2245,m2w_domain,Mind2Web,test,extraspace,web,Show all the jobs available with extraspace.
-mind2web-web-2246,m2w_domain,Mind2Web,test,extraspace,web,Calculate which size storage is required for BMW X3 2020 model.
-mind2web-web-2247,m2w_domain,Mind2Web,test,extraspace,web,Add moving box with part number SS-703 to cart
-mind2web-web-2248,m2w_domain,Mind2Web,test,extraspace,web,Find a 8x8 storage unit for rent near zip code 90028
-mind2web-web-2249,m2w_domain,Mind2Web,test,fedex,web,Calculate a Fedex Ground shipping rate for a 3 pound package from zip code 10019 to zip code 90028.
-mind2web-web-2250,m2w_domain,Mind2Web,test,babycenter,web,search for Good sources of potassium for toddlers
-mind2web-web-2251,m2w_domain,Mind2Web,test,babycenter,web,Find the price of Best Organic twin mattress for kids
-mind2web-web-2252,m2w_domain,Mind2Web,test,babycenter,web,Show me only the top 100 baby boy names
-mind2web-web-2253,m2w_domain,Mind2Web,test,finance.google,web,Find the 1 month stock price chart of AMC.
-mind2web-web-2254,m2w_domain,Mind2Web,test,finance.google,web,Find a list of climate leaders and share it on Twitter.
-mind2web-web-2255,m2w_domain,Mind2Web,test,finance.yahoo,web,Find the latest news about Bitcoin.
-mind2web-web-2256,m2w_domain,Mind2Web,test,gov.uk,web,Open the page for finding a local court.
-mind2web-web-2257,m2w_domain,Mind2Web,test,gov.uk,web,Show teaching jobs available in London.
-mind2web-web-2258,m2w_domain,Mind2Web,test,gov.uk,web,Find the Eligibility to get the child benefit and How it works and how to claim
-mind2web-web-2259,m2w_domain,Mind2Web,test,landwatch,web,Show me the newest farm and ranches in California
-mind2web-web-2260,m2w_domain,Mind2Web,test,healthline,web,"Find an easy-to-follow evidence-based nutritious vegetarian diet to lose weight for a diabetic and heart patient, and sign-up to get the results by email buckeye.foodbar@gym."
-mind2web-web-2261,m2w_domain,Mind2Web,test,healthline,web,Find the symptoms of acid reflux.
-mind2web-web-2262,m2w_domain,Mind2Web,test,healthline,web,"Find the highest-rated primary care female doctor specialist in internal medicine in Milwaukee, who is available tommorrow and accepts Cigna insurance."
-mind2web-web-2263,m2w_domain,Mind2Web,test,weather,web,"Find the radar map for Los Angeles, CA."
-mind2web-web-2264,m2w_domain,Mind2Web,test,student,web,Find a cheapest accomodation near Tokyo International University for moving in July and moving out in December and which provides private room with wifi and laundry services.
-mind2web-web-2265,m2w_domain,Mind2Web,test,babycenter,web,Find the course curriculum for Meeting physical milestone through play and download course pdfs
-mind2web-web-2266,m2w_domain,Mind2Web,test,babycenter,web,Calculate the due date for someone who had their last period on jan 23 and has a 30 days cicle
-mind2web-web-2267,m2w_domain,Mind2Web,test,craigslist.org,web,"Find and view contact details of  the newest parking spot for rent in Austin, Texas within 10 miles of zip 78563 and in a budget of 50 to 150 dollars with an air conditioning facility."
-mind2web-web-2268,m2w_domain,Mind2Web,test,craigslist.org,web,Search for a babysitter service.
-mind2web-web-2269,m2w_domain,Mind2Web,test,craigslist.org,web,Show me a list of antiques for sale sorted by oldest.
-mind2web-web-2270,m2w_domain,Mind2Web,test,craigslist.org,web,Browse apartment listings with at least 2 bedrooms and filter search by title only for the search keyword: laundry
-mind2web-web-2271,m2w_domain,Mind2Web,test,craigslist.org,web,"Find furnished housing ads with images for rent within 30 days in New York without broker fees, the house should have a minimum of one bedroom and bathroom with an attached garage, choose the lowest price house and print the details."
-mind2web-web-2272,m2w_domain,Mind2Web,test,usnews.education,web,Show me a list of health related courses sorted by lowest price.
-mind2web-web-2273,m2w_domain,Mind2Web,test,usnews.education,web,Find need based undergraduate scholarships for African American females from Arizona who are applying to Arizona schools
-mind2web-web-2274,m2w_domain,Mind2Web,test,usnews.education,web,Find the best ranked Asian university for arts programs
-mind2web-web-2275,m2w_domain,Mind2Web,test,usnews.education,web,Add Princeton University to a list of favorite schools
-mind2web-web-2276,m2w_domain,Mind2Web,test,usnews.education,web,Find and compare the top three best ranked business schools for MBA finance
-mind2web-web-2277,m2w_domain,Mind2Web,test,hiring.amazon,web,"View availible shifts for the highest paying job opening for Amazon Delivery Station Warehouse Associate - Capitol Hill/Seattle, WA"
-mind2web-web-2278,m2w_domain,Mind2Web,test,hiring.amazon,web,Search for full-time pharmacy customer service jobs available in Phoenix and apply to the latest job.
-mind2web-web-2279,m2w_domain,Mind2Web,test,hiring.amazon,web,"Find a regular delivery station associate job in New Windsor, Ontario and apply."
-mind2web-web-2280,m2w_domain,Mind2Web,test,adoptapet,web,Search for Mainecoon cats near zip code 21122.
-mind2web-web-2281,m2w_domain,Mind2Web,test,hiring.amazon,web,"Search for a Job as a delivery driver within 100 miles of California, and apply to the highest paying job above at least 22 dollars per hour."
-mind2web-web-2282,m2w_domain,Mind2Web,test,hiring.amazon,web,"apply for a delivery driving job at Grand Rapids, MI, USA. Name: Nelson Freeman, Email: Nelsonfree@gmail.com, phone: 2034556656. Select ""yes"" for all options"
-mind2web-web-2283,m2w_domain,Mind2Web,test,hiring.amazon,web,"Look for a job state-wise and search for an available job in Madison, Wisconsin, if available, apply for the job and if not apply to any job in Omaha."
-mind2web-web-2284,m2w_domain,Mind2Web,test,hiring.amazon,web,search Amazon Pharmacy for available IT full time job in Massachusetts
-mind2web-web-2285,m2w_domain,Mind2Web,test,hiring.amazon,web,View the most recent job posting for a full time pharmacy position in the US.
-mind2web-web-2286,m2w_domain,Mind2Web,test,hiring.amazon,web,Find a job in Fulfillment Center Warehouse and signup for alerts to email abc@abc.com.
-mind2web-web-2287,m2w_domain,Mind2Web,test,hiring.amazon,web,Learn how to get started with the Military Mentoring Program.
-mind2web-web-2288,m2w_domain,Mind2Web,test,uhaul,web,"Browse trailer hitches for a 2015 Honda Civic Sedan for pickup at a U-Haul location in zip code 10019 on Apr 19, 2023."
-mind2web-web-2289,m2w_domain,Mind2Web,test,coinmarketcap,web,View the historical data of Litecoin for the last 90 days.
-mind2web-web-2290,m2w_domain,Mind2Web,test,coinmarketcap,web,Find the ongoing crypto airdrops.
-mind2web-web-2291,m2w_domain,Mind2Web,test,cookpad,web,Find the app for android.
-mind2web-web-2292,m2w_domain,Mind2Web,test,cookpad,web,"Leave a comment on a recipe for chicken parmesan, asking if it can be made in an air fryer."
-mind2web-web-2293,m2w_domain,Mind2Web,test,cookpad,web,Find dinner meals containing lamb.
-mind2web-web-2294,m2w_domain,Mind2Web,test,cookpad,web,"Show me a list of recipes that contain chicken, but without rice."
-mind2web-web-2295,m2w_domain,Mind2Web,test,cookpad,web,"Leave a comment on a recipe for orange shrimp skewers: ""It's good to use orange on shrimps!"" and share the recipe on twitter."
-mind2web-web-2296,m2w_domain,Mind2Web,test,cookpad,web,Find Indian Community and check for recipe with a vegetable that is in season.
-mind2web-web-2297,m2w_domain,Mind2Web,test,coursera.org,web,"Apply to get the Job Skills of 2023 Report eBook. Name: John Doe, Job: Accounting, Email: Johndoe@gmail.com, Phone number: 234567890, Institution: University of Michigan, Primary Discipline: Accountin
+mind2web-web-2182,m2w_domain,Mind2Web,test,https://www.landwatch.com,web,"Look for the latest posted undeveloped land, farm, and ranches under 10 acres in Dallas County, Iowa, and save my search with instant update option for later usage."
+mind2web-web-2183,m2w_domain,Mind2Web,test,https://www.landwatch.com,web,"Show houses for sale in Maryland with maximum price of $60,000."
+mind2web-web-2184,m2w_domain,Mind2Web,test,https://www.landwatch.com,web,"Find homes for auction in Wagoner County, Oklahoma, and contact the seller of the tiniest land."
+mind2web-web-2185,m2w_domain,Mind2Web,test,https://www.landwatch.com,web,"Find Farms land in Wilkes County, NC with lowest price."
+mind2web-web-2186,m2w_domain,Mind2Web,test,https://www.fedex.com,web,Find the closest drop off location to zip code 90028
+mind2web-web-2187,m2w_domain,Mind2Web,test,https://www.fedex.com,web,Find a staffed FedEx location near zip code 10019 to return a package
+mind2web-web-2188,m2w_domain,Mind2Web,test,https://www.fedex.com,web,"check large printing cost for Architecture, Construction & Engineering in paper size 18*24, full color in portrait with left edge binding."
+mind2web-web-2189,m2w_domain,Mind2Web,test,https://ohiomeansjobs.ohio.gov,web,Browse web design jobs and filter by Entry level
+mind2web-web-2190,m2w_domain,Mind2Web,test,https://ohiomeansjobs.ohio.gov,web,"Find a permanent job in Logistics within 20 miles of New York, zip 11005, in the middle-income range for a high school diploma holder."
+mind2web-web-2191,m2w_domain,Mind2Web,test,https://www.uhaul.com,web,Browse medium sized climate-controlled storage units in Los Angeles.
+mind2web-web-2192,m2w_domain,Mind2Web,test,https://www.uhaul.com,web,Update from a 15' truck to a 20' truck and get new quote.
+mind2web-web-2193,m2w_domain,Mind2Web,test,https://www.movoto.com,web,Find a home for rent in Anchorage Alaska for less than 800$/month.
+mind2web-web-2194,m2w_domain,Mind2Web,test,https://www.movoto.com,web,"Find a mobile home for sale in Hanover PA, that is not pending."
+mind2web-web-2195,m2w_domain,Mind2Web,test,https://www.movoto.com,web,"Find newly constructed homes for sale within 10 miles of zip 11001, with prices between 350k to 550k for a single family with 1 bedroom and 1 bathroom."
+mind2web-web-2196,m2w_domain,Mind2Web,test,https://www.movoto.com,web,"Find the lowest price land in Huntsville, Alabama within the 150k to 250 price range and request an in-person visit on March 26, 9 am."
+mind2web-web-2197,m2w_domain,Mind2Web,test,https://www.healthline.com,web,Sign up for the Gut Check Challenge with the email address of buck19915@gmail.com.
+mind2web-web-2198,m2w_domain,Mind2Web,test,https://www.healthline.com,web,"Take a newsletter subscription with my email id (buckeye.foobar@gmail.com) for Allergies and asthma, Anxiety and depression, nutrition, diabetes, breast cancer, and migraine with email id."
+mind2web-web-2199,m2w_domain,Mind2Web,test,https://www.healthline.com,web,Browse articles for breast cancer treatments.
+mind2web-web-2200,m2w_domain,Mind2Web,test,https://hiring.amazon.com,web,Find details about the benefits of 20 weeks of fully paid leave.
+mind2web-web-2201,m2w_domain,Mind2Web,test,https://hiring.amazon.com,web,"Find Fulfillment Center jobs within 50 miles of Lincoln, NE, USA."
+mind2web-web-2202,m2w_domain,Mind2Web,test,https://hiring.amazon.com,web,search regular daytime jobs around 44278 that I can start within a week or two.
+mind2web-web-2203,m2w_domain,Mind2Web,test,https://hiring.amazon.com,web,Search for night shift job as a associate.
+mind2web-web-2204,m2w_domain,Mind2Web,test,https://hiring.amazon.com,web,"Find available jobs in Omaha and apply to Thu, Fri, Sat shift jobs in fullfilment center if available."
+mind2web-web-2205,m2w_domain,Mind2Web,test,https://www.healthline.com,web,Find a vegan diet to lose weight
+mind2web-web-2206,m2w_domain,Mind2Web,test,https://www.healthline.com,web,What are the side effects of amoxicillin?
+mind2web-web-2207,m2w_domain,Mind2Web,test,https://www.healthline.com,web,Find healthy savory vegan snack recipes which can be cooked within 5 minutes and contain a high level of protein.
+mind2web-web-2208,m2w_domain,Mind2Web,test,https://www.healthline.com,web,Find a list of topics about sleep disorders.
+mind2web-web-2209,m2w_domain,Mind2Web,test,https://www.healthline.com,web,Show me information about treatments for IBD
+mind2web-web-2210,m2w_domain,Mind2Web,test,https://www.fedex.com,web,"Schedule a one-time pickup for today for a package. Pay with mastercard 4564456745689874, cvv 265 expire at 01/26."
+mind2web-web-2211,m2w_domain,Mind2Web,test,https://www.fedex.com,web,Find jobs in Retail positions in United States.
+mind2web-web-2212,m2w_domain,Mind2Web,test,https://www.fedex.com,web,Find out how to schedule a recurring pickup
+mind2web-web-2213,m2w_domain,Mind2Web,test,https://www.fedex.com,web,calculate rate for LTL class 50 food shipment with 2 5000lb in cartons worth $20000 with residential pickup and delivery from Chicago to Kansas city on March 30th.
+mind2web-web-2214,m2w_domain,Mind2Web,test,https://www.drugs.com,web,"Display the search results for pill 123456, white and round."
+mind2web-web-2215,m2w_domain,Mind2Web,test,https://www.adoptapet.com,web,Find white young male german shepherd dogs within 50 miles of zip 78613.
+mind2web-web-2216,m2w_domain,Mind2Web,test,https://www.adoptapet.com,web,Find an adult husky near zip code 10019.
+mind2web-web-2217,m2w_domain,Mind2Web,test,https://finance.yahoo.com,web,Show Equity Screener for Mid Cap in Healthcare sector.
+mind2web-web-2218,m2w_domain,Mind2Web,test,https://www.student.com,web,Add to my wishlist the most expensive option to rent in New york
+mind2web-web-2219,m2w_domain,Mind2Web,test,https://www.udemy.com,web,What are the beginner favorites startup courses
+mind2web-web-2220,m2w_domain,Mind2Web,test,https://www.udemy.com,web,Show me the latest Public Speaking Courses rated 4.5 or greater.
+mind2web-web-2221,m2w_domain,Mind2Web,test,https://www.udemy.com,web,Sign up for new tutors.
+mind2web-web-2222,m2w_domain,Mind2Web,test,https://www.udemy.com,web,Search for newest Linux Administraion courses with 4.5 rating.
+mind2web-web-2223,m2w_domain,Mind2Web,test,https://www.udemy.com,web,Find  meditation and sound therapy rated 3.5 and up between 1-3 hours for beginners with French subtitles.
+mind2web-web-2224,m2w_domain,Mind2Web,test,https://hiring.amazon.com,web,check the most recent full time medical health and safety jobs available in the US
+mind2web-web-2225,m2w_domain,Mind2Web,test,https://hiring.amazon.com,web,learn more about Apprenticeships & Certifications program
+mind2web-web-2226,m2w_domain,Mind2Web,test,https://www.student.com,web,Find private room accommodation rentals near University of Oxford.
+mind2web-web-2227,m2w_domain,Mind2Web,test,https://www.glassdoor.com,web,Check employee reviews and ratings for Microsoft.
+mind2web-web-2228,m2w_domain,Mind2Web,test,https://www.gov.uk,web,Find the procedure to get the Doctoral Loan and when the application will open for the year 2023
+mind2web-web-2229,m2w_domain,Mind2Web,test,https://www.gov.uk,web,Show information regarding Carer's Credit for Disabled people.
+mind2web-web-2230,m2w_domain,Mind2Web,test,https://www.gov.uk,web,Show me current alerts.
+mind2web-web-2231,m2w_domain,Mind2Web,test,https://www.gov.uk,web,Find eligibility for Jobseeker's Allowance (JSA).
+mind2web-web-2232,m2w_domain,Mind2Web,test,https://www.gov.uk,web,Find a sales executive job in Manchester
+mind2web-web-2233,m2w_domain,Mind2Web,test,https://stocktwits.com,web,Show me the liked posts from a user that has recently posted about btc
+mind2web-web-2234,m2w_domain,Mind2Web,test,https://www.thumbtack.com,web,Estimate the cost of a photographer in 07055 for a 4 hour project
+mind2web-web-2235,m2w_domain,Mind2Web,test,https://www.thumbtack.com,web,Find a private dog training service for aggressive behavior modification like barking and biting near 90011 and book a session for 1-year-old medium sized dog at my home only during weekends.
+mind2web-web-2236,m2w_domain,Mind2Web,test,https://www.thumbtack.com,web,find landscaper service and get a quote to remove trees and include help to identify items to be removed at my home.
+mind2web-web-2237,m2w_domain,Mind2Web,test,https://www.craigslist.org,web,Browse for pets to adopt and only show listings with images
+mind2web-web-2238,m2w_domain,Mind2Web,test,https://www.craigslist.org,web,Find a full time copywriter job in New York City and apply with my details.
+mind2web-web-2239,m2w_domain,Mind2Web,test,https://www.craigslist.org,web,Get the email address of anyone who has poted a listing today for theatre tickets for the show A Doll's House within 50 miles of the zip code 10001.
+mind2web-web-2240,m2w_domain,Mind2Web,test,https://www.craigslist.org,web,Browse dog friendly vacation rentals that offer air conditioning and a carport.
+mind2web-web-2241,m2w_domain,Mind2Web,test,https://www.craigslist.org,web,Browse washing machines for sale and only show listings posted today
+mind2web-web-2242,m2w_domain,Mind2Web,test,https://www.craigslist.org,web,"Browse Iphone X for sale that are in good condition, has a max price of 400, and search in titles only."
+mind2web-web-2243,m2w_domain,Mind2Web,test,https://www.craigslist.org,web,Search for a part-time job as a cashier.
+mind2web-web-2244,m2w_domain,Mind2Web,test,https://www.craigslist.org,web,"Find the newest garage sale in Phoenix, Arizona, on March 31 and print the details of the garage sale, which is selling old toys."
+mind2web-web-2245,m2w_domain,Mind2Web,test,https://www.extraspace.com,web,Show all the jobs available with extraspace.
+mind2web-web-2246,m2w_domain,Mind2Web,test,https://www.extraspace.com,web,Calculate which size storage is required for BMW X3 2020 model.
+mind2web-web-2247,m2w_domain,Mind2Web,test,https://www.extraspace.com,web,Add moving box with part number SS-703 to cart
+mind2web-web-2248,m2w_domain,Mind2Web,test,https://www.extraspace.com,web,Find a 8x8 storage unit for rent near zip code 90028
+mind2web-web-2249,m2w_domain,Mind2Web,test,https://www.fedex.com,web,Calculate a Fedex Ground shipping rate for a 3 pound package from zip code 10019 to zip code 90028.
+mind2web-web-2250,m2w_domain,Mind2Web,test,https://www.babycenter.com,web,search for Good sources of potassium for toddlers
+mind2web-web-2251,m2w_domain,Mind2Web,test,https://www.babycenter.com,web,Find the price of Best Organic twin mattress for kids
+mind2web-web-2252,m2w_domain,Mind2Web,test,https://www.babycenter.com,web,Show me only the top 100 baby boy names
+mind2web-web-2253,m2w_domain,Mind2Web,test,https://finance.google.com,web,Find the 1 month stock price chart of AMC.
+mind2web-web-2254,m2w_domain,Mind2Web,test,https://finance.google.com,web,Find a list of climate leaders and share it on Twitter.
+mind2web-web-2255,m2w_domain,Mind2Web,test,https://finance.yahoo.com,web,Find the latest news about Bitcoin.
+mind2web-web-2256,m2w_domain,Mind2Web,test,https://www.gov.uk,web,Open the page for finding a local court.
+mind2web-web-2257,m2w_domain,Mind2Web,test,https://www.gov.uk,web,Show teaching jobs available in London.
+mind2web-web-2258,m2w_domain,Mind2Web,test,https://www.gov.uk,web,Find the Eligibility to get the child benefit and How it works and how to claim
+mind2web-web-2259,m2w_domain,Mind2Web,test,https://www.landwatch.com,web,Show me the newest farm and ranches in California
+mind2web-web-2260,m2w_domain,Mind2Web,test,https://www.healthline.com,web,"Find an easy-to-follow evidence-based nutritious vegetarian diet to lose weight for a diabetic and heart patient, and sign-up to get the results by email buckeye.foodbar@gym."
+mind2web-web-2261,m2w_domain,Mind2Web,test,https://www.healthline.com,web,Find the symptoms of acid reflux.
+mind2web-web-2262,m2w_domain,Mind2Web,test,https://www.healthline.com,web,"Find the highest-rated primary care female doctor specialist in internal medicine in Milwaukee, who is available tommorrow and accepts Cigna insurance."
+mind2web-web-2263,m2w_domain,Mind2Web,test,https://weather.com,web,"Find the radar map for Los Angeles, CA."
+mind2web-web-2264,m2w_domain,Mind2Web,test,https://www.student.com,web,Find a cheapest accomodation near Tokyo International University for moving in July and moving out in December and which provides private room with wifi and laundry services.
+mind2web-web-2265,m2w_domain,Mind2Web,test,https://www.babycenter.com,web,Find the course curriculum for Meeting physical milestone through play and download course pdfs
+mind2web-web-2266,m2w_domain,Mind2Web,test,https://www.babycenter.com,web,Calculate the due date for someone who had their last period on jan 23 and has a 30 days cicle
+mind2web-web-2267,m2w_domain,Mind2Web,test,https://www.craigslist.org,web,"Find and view contact details of  the newest parking spot for rent in Austin, Texas within 10 miles of zip 78563 and in a budget of 50 to 150 dollars with an air conditioning facility."
+mind2web-web-2268,m2w_domain,Mind2Web,test,https://www.craigslist.org,web,Search for a babysitter service.
+mind2web-web-2269,m2w_domain,Mind2Web,test,https://www.craigslist.org,web,Show me a list of antiques for sale sorted by oldest.
+mind2web-web-2270,m2w_domain,Mind2Web,test,https://www.craigslist.org,web,Browse apartment listings with at least 2 bedrooms and filter search by title only for the search keyword: laundry
+mind2web-web-2271,m2w_domain,Mind2Web,test,https://www.craigslist.org,web,"Find furnished housing ads with images for rent within 30 days in New York without broker fees, the house should have a minimum of one bedroom and bathroom with an attached garage, choose the lowest price house and print the details."
+mind2web-web-2272,m2w_domain,Mind2Web,test,https://www.usnews.com/education,web,Show me a list of health related courses sorted by lowest price.
+mind2web-web-2273,m2w_domain,Mind2Web,test,https://www.usnews.com/education,web,Find need based undergraduate scholarships for African American females from Arizona who are applying to Arizona schools
+mind2web-web-2274,m2w_domain,Mind2Web,test,https://www.usnews.com/education,web,Find the best ranked Asian university for arts programs
+mind2web-web-2275,m2w_domain,Mind2Web,test,https://www.usnews.com/education,web,Add Princeton University to a list of favorite schools
+mind2web-web-2276,m2w_domain,Mind2Web,test,https://www.usnews.com/education,web,Find and compare the top three best ranked business schools for MBA finance
+mind2web-web-2277,m2w_domain,Mind2Web,test,https://hiring.amazon.com,web,"View availible shifts for the highest paying job opening for Amazon Delivery Station Warehouse Associate - Capitol Hill/Seattle, WA"
+mind2web-web-2278,m2w_domain,Mind2Web,test,https://hiring.amazon.com,web,Search for full-time pharmacy customer service jobs available in Phoenix and apply to the latest job.
+mind2web-web-2279,m2w_domain,Mind2Web,test,https://hiring.amazon.com,web,"Find a regular delivery station associate job in New Windsor, Ontario and apply."
+mind2web-web-2280,m2w_domain,Mind2Web,test,https://www.adoptapet.com,web,Search for Mainecoon cats near zip code 21122.
+mind2web-web-2281,m2w_domain,Mind2Web,test,https://hiring.amazon.com,web,"Search for a Job as a delivery driver within 100 miles of California, and apply to the highest paying job above at least 22 dollars per hour."
+mind2web-web-2282,m2w_domain,Mind2Web,test,https://hiring.amazon.com,web,"apply for a delivery driving job at Grand Rapids, MI, USA. Name: Nelson Freeman, Email: Nelsonfree@gmail.com, phone: 2034556656. Select ""yes"" for all options"
+mind2web-web-2283,m2w_domain,Mind2Web,test,https://hiring.amazon.com,web,"Look for a job state-wise and search for an available job in Madison, Wisconsin, if available, apply for the job and if not apply to any job in Omaha."
+mind2web-web-2284,m2w_domain,Mind2Web,test,https://hiring.amazon.com,web,search Amazon Pharmacy for available IT full time job in Massachusetts
+mind2web-web-2285,m2w_domain,Mind2Web,test,https://hiring.amazon.com,web,View the most recent job posting for a full time pharmacy position in the US.
+mind2web-web-2286,m2w_domain,Mind2Web,test,https://hiring.amazon.com,web,Find a job in Fulfillment Center Warehouse and signup for alerts to email abc@abc.com.
+mind2web-web-2287,m2w_domain,Mind2Web,test,https://hiring.amazon.com,web,Learn how to get started with the Military Mentoring Program.
+mind2web-web-2288,m2w_domain,Mind2Web,test,https://www.uhaul.com,web,"Browse trailer hitches for a 2015 Honda Civic Sedan for pickup at a U-Haul location in zip code 10019 on Apr 19, 2023."
+mind2web-web-2289,m2w_domain,Mind2Web,test,https://coinmarketcap.com,web,View the historical data of Litecoin for the last 90 days.
+mind2web-web-2290,m2w_domain,Mind2Web,test,https://coinmarketcap.com,web,Find the ongoing crypto airdrops.
+mind2web-web-2291,m2w_domain,Mind2Web,test,https://cookpad.com,web,Find the app for android.
+mind2web-web-2292,m2w_domain,Mind2Web,test,https://cookpad.com,web,"Leave a comment on a recipe for chicken parmesan, asking if it can be made in an air fryer."
+mind2web-web-2293,m2w_domain,Mind2Web,test,https://cookpad.com,web,Find dinner meals containing lamb.
+mind2web-web-2294,m2w_domain,Mind2Web,test,https://cookpad.com,web,"Show me a list of recipes that contain chicken, but without rice."
+mind2web-web-2295,m2w_domain,Mind2Web,test,https://cookpad.com,web,"Leave a comment on a recipe for orange shrimp skewers: ""It's good to use orange on shrimps!"" and share the recipe on twitter."
+mind2web-web-2296,m2w_domain,Mind2Web,test,https://cookpad.com,web,Find Indian Community and check for recipe with a vegetable that is in season.
+mind2web-web-2297,m2w_domain,Mind2Web,test,https://www.coursera.org,web,"Apply to get the Job Skills of 2023 Report eBook. Name: John Doe, Job: Accounting, Email: Johndoe@gmail.com, Phone number: 234567890, Institution: University of Michigan, Primary Discipline: Accountin
 g"
-mind2web-web-2298,m2w_domain,Mind2Web,test,coursera.org,web,Enroll in an advanced course offered by deeplearning.ai.
-mind2web-web-2299,m2w_domain,Mind2Web,test,coursera.org,web,search for a free business course that covers advanced accounting and lasts between 1 and 3 months.
-mind2web-web-2300,m2w_domain,Mind2Web,test,student,web,"book a Group Enquiry of 10 student in the university of New south wales, Australia with AUD 100-500 per month budget, from Apr 8th, 2023 to Match 30th, 2024. Name: John Brown, phone: 3324456543, email: Johnbrown@gmail.com"
-mind2web-web-2301,m2w_domain,Mind2Web,test,ohio.gov,web,Find out how to view an old tax return
-mind2web-web-2302,m2w_domain,Mind2Web,test,reddit,web,Find the top post of this month and downvote the oldest comment on it
-mind2web-web-2303,m2w_domain,Mind2Web,test,reddit,web,Open AskReddit community and filter this month's top posts by Breaking News flair
-mind2web-web-2304,m2w_domain,Mind2Web,test,babycenter,web,Show me the popularity in 2015 of the current most popular baby girl name
-mind2web-web-2305,m2w_domain,Mind2Web,test,zocdoc,web,Browse dermatologists near zip code 90028 that treats children.
-mind2web-web-2306,m2w_domain,Mind2Web,test,epicurious,web,Browse vegan pizza recipes that take 30 minutes or less.
-mind2web-web-2307,m2w_domain,Mind2Web,test,epicurious,web,Browse Halloween dishes sorted by rating.
-mind2web-web-2308,m2w_domain,Mind2Web,test,epicurious,web,Find pie recipes and show the best rated ones.
-mind2web-web-2309,m2w_domain,Mind2Web,test,epicurious,web,Find burger recipes that use chicken as an ingredient.
-mind2web-web-2310,m2w_domain,Mind2Web,test,epicurious,web,Open expert tips on how to clean an oven.
-mind2web-web-2311,m2w_domain,Mind2Web,test,finance.google,web,Browse the climate leaders stocks
-mind2web-web-2312,m2w_domain,Mind2Web,test,finance.google,web,Follow Walt Disney stock.
-mind2web-web-2313,m2w_domain,Mind2Web,test,finance.google,web,Compare Tesla and Ford stocks over the past 6 months
-mind2web-web-2314,m2w_domain,Mind2Web,test,healthline,web,Find me a gluten-free diet to lose weight for a pregnant woman
-mind2web-web-2315,m2w_domain,Mind2Web,test,healthline,web,Browse a list of CDB product reviews.
+mind2web-web-2298,m2w_domain,Mind2Web,test,https://www.coursera.org,web,Enroll in an advanced course offered by deeplearning.ai.
+mind2web-web-2299,m2w_domain,Mind2Web,test,https://www.coursera.org,web,search for a free business course that covers advanced accounting and lasts between 1 and 3 months.
+mind2web-web-2300,m2w_domain,Mind2Web,test,https://www.student.com,web,"book a Group Enquiry of 10 student in the university of New south wales, Australia with AUD 100-500 per month budget, from Apr 8th, 2023 to Match 30th, 2024. Name: John Brown, phone: 3324456543, email: Johnbrown@gmail.com"
+mind2web-web-2301,m2w_domain,Mind2Web,test,https://www.ohio.gov,web,Find out how to view an old tax return
+mind2web-web-2302,m2w_domain,Mind2Web,test,https://www.reddit.com,web,Find the top post of this month and downvote the oldest comment on it
+mind2web-web-2303,m2w_domain,Mind2Web,test,https://www.reddit.com,web,Open AskReddit community and filter this month's top posts by Breaking News flair
+mind2web-web-2304,m2w_domain,Mind2Web,test,https://www.babycenter.com,web,Show me the popularity in 2015 of the current most popular baby girl name
+mind2web-web-2305,m2w_domain,Mind2Web,test,https://www.zocdoc.com,web,Browse dermatologists near zip code 90028 that treats children.
+mind2web-web-2306,m2w_domain,Mind2Web,test,https://www.epicurious.com,web,Browse vegan pizza recipes that take 30 minutes or less.
+mind2web-web-2307,m2w_domain,Mind2Web,test,https://www.epicurious.com,web,Browse Halloween dishes sorted by rating.
+mind2web-web-2308,m2w_domain,Mind2Web,test,https://www.epicurious.com,web,Find pie recipes and show the best rated ones.
+mind2web-web-2309,m2w_domain,Mind2Web,test,https://www.epicurious.com,web,Find burger recipes that use chicken as an ingredient.
+mind2web-web-2310,m2w_domain,Mind2Web,test,https://www.epicurious.com,web,Open expert tips on how to clean an oven.
+mind2web-web-2311,m2w_domain,Mind2Web,test,https://finance.google.com,web,Browse the climate leaders stocks
+mind2web-web-2312,m2w_domain,Mind2Web,test,https://finance.google.com,web,Follow Walt Disney stock.
+mind2web-web-2313,m2w_domain,Mind2Web,test,https://finance.google.com,web,Compare Tesla and Ford stocks over the past 6 months
+mind2web-web-2314,m2w_domain,Mind2Web,test,https://www.healthline.com,web,Find me a gluten-free diet to lose weight for a pregnant woman
+mind2web-web-2315,m2w_domain,Mind2Web,test,https://www.healthline.com,web,Browse a list of CDB product reviews.
 osworld-desktop-2316,osworld_test,OSWorld,test,chrome,desktop,Can you enable the 'Do Not Track' feature in Chrome to enhance my online privacy?
 osworld-desktop-2317,osworld_test,OSWorld,test,chrome,desktop,Can you make my computer bring back the last tab I shut down?
 osworld-desktop-2318,osworld_test,OSWorld,test,chrome,desktop,"Computer, please navigate to the area in my browser settings where my passwords are stored. I want to check my login information for Etsy without revealing it just yet."

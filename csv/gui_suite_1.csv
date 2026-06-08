@@ -973,29 +973,29 @@ llamatouch-mobile-0971,llamatouch_test,LlamaTouch,test,Google Tasks,mobile,Open 
 llamatouch-mobile-0972,llamatouch_test,LlamaTouch,test,Google Tasks,mobile,"Open Google Tasks and star ""Task2""."
 llamatouch-mobile-0973,llamatouch_test,LlamaTouch,test,Google Tasks,mobile,"Open Google Tasks and mark ""Task2"" as complete."
 llamatouch-mobile-0974,llamatouch_test,LlamaTouch,test,Google Tasks,mobile,"Open Google Tasks and delete the list ""Test""."
-mind2web-web-0975,m2w_task,Mind2Web,test,seatgeek,web,Find all events taking place in New York City during the month of September.
-mind2web-web-0976,m2w_task,Mind2Web,test,seatgeek,web,Find help page about buying tickets.
-mind2web-web-0977,m2w_task,Mind2Web,test,seatgeek,web,check two ticket with best seat that has promo code first show happening in Hamilton New York on April.
-mind2web-web-0978,m2w_task,Mind2Web,test,kohls,web,Find the cheapest women's plus size brown color loungewear in 3xl size.
-mind2web-web-0979,m2w_task,Mind2Web,test,budget,web,"Rent a truck with the lowest rent with two dozen furniture pads for 100 miles at zip 08817 on April 12 at 2:30 pm rented truck is to be returned to the exact location and date, and the pickup and drop off will be at the nearest location."
-mind2web-web-0980,m2w_task,Mind2Web,test,carmax,web,search gas pickup truck in Fremont with 2010 and 2017 with less than 80000 mile
-mind2web-web-0981,m2w_task,Mind2Web,test,delta,web,find my trip with confirmation number SFTBAO including first and last name Joe Lukeman
-mind2web-web-0982,m2w_task,Mind2Web,test,delta,web,Find the status of March 25 flights from New York airports to Columbus in Ohio.
-mind2web-web-0983,m2w_task,Mind2Web,test,ticketcenter,web,Browse the venues that are playing the Wicked show from Oct 5 to Oct 24 2023
-mind2web-web-0984,m2w_task,Mind2Web,test,sixflags,web,"Buy a diamond pass in New York's, Great escape park, add one meal dining plan to it, and select the flexible payment plan for Jame Jones. The email address is jame_jones@hotmail.com, zip code 10005 and age is 35."
-mind2web-web-0985,m2w_task,Mind2Web,test,viator,web,Add to my wish list the highest rated activity in Amsterdam.
-mind2web-web-0986,m2w_task,Mind2Web,test,imdb,web,Find the movie Donnie Darko and show its complete cast.
-mind2web-web-0987,m2w_task,Mind2Web,test,imdb,web,Browse the list of top 250 movies and add the first one to my watchlist.
-mind2web-web-0988,m2w_task,Mind2Web,test,carmax,web,"see Nissan and Honda cars for sale near Kentwood, MI 49512"
-mind2web-web-0989,m2w_task,Mind2Web,test,newegg,web,Build an entry-level pc with an windows 11 64 bit intel i7 CPU with a256gb ssd drive +  4gb ram and adding cheapest component and accessories available.
-mind2web-web-0990,m2w_task,Mind2Web,test,newegg,web,"Find 32"" Curved monitor and add the third one to the wish list."
-mind2web-web-0991,m2w_task,Mind2Web,test,underarmour,web,"Search the cheapest Curry brand unisex athletic shoes with the number 5.5, add to cart and checkout."
-mind2web-web-0992,m2w_task,Mind2Web,test,kohls,web,Browse spider-man toys for kids and sort by lowest price.
-mind2web-web-0993,m2w_task,Mind2Web,test,gamestop,web,Find the store location and hours of the closest Gamestop to zip code 90028 and set as home store
-mind2web-web-0994,m2w_task,Mind2Web,test,tvguide,web,Find and view the biography for the Host of the Price  is Right.
-mind2web-web-0995,m2w_task,Mind2Web,test,airbnb,web,Find a private room in New York for 1 April and checkout on 2 April for 2 adults
-mind2web-web-0996,m2w_task,Mind2Web,test,new.mta.info,web,Check the status of train S92 for any disruptions.
-mind2web-web-0997,m2w_task,Mind2Web,test,new.mta.info,web,Get the report from the final environmental impact statement for the Jamaica Bus Depot expansion.
-mind2web-web-0998,m2w_task,Mind2Web,test,new.mta.info,web,Plan a trip to reach JFK airport from central park by 11am on April 12
-mind2web-web-0999,m2w_task,Mind2Web,test,redbox,web,"Rent "" The Whale "" movie on demand with format ""high definition""."
-mind2web-web-1000,m2w_task,Mind2Web,test,eventbrite,web,Browse the page with event planning tips.
+mind2web-web-0975,m2w_task,Mind2Web,test,https://seatgeek.com,web,Find all events taking place in New York City during the month of September.
+mind2web-web-0976,m2w_task,Mind2Web,test,https://seatgeek.com,web,Find help page about buying tickets.
+mind2web-web-0977,m2w_task,Mind2Web,test,https://seatgeek.com,web,check two ticket with best seat that has promo code first show happening in Hamilton New York on April.
+mind2web-web-0978,m2w_task,Mind2Web,test,https://www.kohls.com,web,Find the cheapest women's plus size brown color loungewear in 3xl size.
+mind2web-web-0979,m2w_task,Mind2Web,test,https://www.budget.com,web,"Rent a truck with the lowest rent with two dozen furniture pads for 100 miles at zip 08817 on April 12 at 2:30 pm rented truck is to be returned to the exact location and date, and the pickup and drop off will be at the nearest location."
+mind2web-web-0980,m2w_task,Mind2Web,test,https://www.carmax.com,web,search gas pickup truck in Fremont with 2010 and 2017 with less than 80000 mile
+mind2web-web-0981,m2w_task,Mind2Web,test,https://www.delta.com,web,find my trip with confirmation number SFTBAO including first and last name Joe Lukeman
+mind2web-web-0982,m2w_task,Mind2Web,test,https://www.delta.com,web,Find the status of March 25 flights from New York airports to Columbus in Ohio.
+mind2web-web-0983,m2w_task,Mind2Web,test,https://www.ticketcenter.com,web,Browse the venues that are playing the Wicked show from Oct 5 to Oct 24 2023
+mind2web-web-0984,m2w_task,Mind2Web,test,https://www.sixflags.com,web,"Buy a diamond pass in New York's, Great escape park, add one meal dining plan to it, and select the flexible payment plan for Jame Jones. The email address is jame_jones@hotmail.com, zip code 10005 and age is 35."
+mind2web-web-0985,m2w_task,Mind2Web,test,https://www.viator.com,web,Add to my wish list the highest rated activity in Amsterdam.
+mind2web-web-0986,m2w_task,Mind2Web,test,https://www.imdb.com,web,Find the movie Donnie Darko and show its complete cast.
+mind2web-web-0987,m2w_task,Mind2Web,test,https://www.imdb.com,web,Browse the list of top 250 movies and add the first one to my watchlist.
+mind2web-web-0988,m2w_task,Mind2Web,test,https://www.carmax.com,web,"see Nissan and Honda cars for sale near Kentwood, MI 49512"
+mind2web-web-0989,m2w_task,Mind2Web,test,https://www.newegg.com,web,Build an entry-level pc with an windows 11 64 bit intel i7 CPU with a256gb ssd drive +  4gb ram and adding cheapest component and accessories available.
+mind2web-web-0990,m2w_task,Mind2Web,test,https://www.newegg.com,web,"Find 32"" Curved monitor and add the third one to the wish list."
+mind2web-web-0991,m2w_task,Mind2Web,test,https://www.underarmour.com,web,"Search the cheapest Curry brand unisex athletic shoes with the number 5.5, add to cart and checkout."
+mind2web-web-0992,m2w_task,Mind2Web,test,https://www.kohls.com,web,Browse spider-man toys for kids and sort by lowest price.
+mind2web-web-0993,m2w_task,Mind2Web,test,https://www.gamestop.com,web,Find the store location and hours of the closest Gamestop to zip code 90028 and set as home store
+mind2web-web-0994,m2w_task,Mind2Web,test,https://www.tvguide.com,web,Find and view the biography for the Host of the Price  is Right.
+mind2web-web-0995,m2w_task,Mind2Web,test,https://www.airbnb.com,web,Find a private room in New York for 1 April and checkout on 2 April for 2 adults
+mind2web-web-0996,m2w_task,Mind2Web,test,https://new.mta.info,web,Check the status of train S92 for any disruptions.
+mind2web-web-0997,m2w_task,Mind2Web,test,https://new.mta.info,web,Get the report from the final environmental impact statement for the Jamaica Bus Depot expansion.
+mind2web-web-0998,m2w_task,Mind2Web,test,https://new.mta.info,web,Plan a trip to reach JFK airport from central park by 11am on April 12
+mind2web-web-0999,m2w_task,Mind2Web,test,https://www.redbox.com,web,"Rent "" The Whale "" movie on demand with format ""high definition""."
+mind2web-web-1000,m2w_task,Mind2Web,test,https://www.eventbrite.com,web,Browse the page with event planning tips.
