@@ -4,14 +4,6 @@ configs:
     data_files:
       - split: test
         path: jsonl/*.jsonl
-  - config_name: json
-    data_files:
-      - split: test
-        path: json/*.json
-  - config_name: csv
-    data_files:
-      - split: test
-        path: csv/*.csv
 ---
 
 # GUI Failure Analysis — Task Suite
