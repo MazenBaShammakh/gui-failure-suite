@@ -1,0 +1,722 @@
+# Agent tasks for the GUI Failure Lab (mobile).
+#
+# The app is one realistic device: a Home springboard (route "/") with app icons.
+# Each task starts on Home so the agent must discover and open the right page.
+#
+# Baseline vs faulty is a single GLOBAL flag, not part of the URL. Set it before
+# each run via the Settings screen (gear icon on Home) or by pre-seeding
+# localStorage['gui-lab:mode'] = 'baseline' | 'faulty'. Every task is run once
+# per mode; the listed `defect` is the ground-truth code that the faulty variant
+# arms (rendered as testID="defect:<CODE>" on the affected screen).
+#
+# `target_app`, `start_route`, `target_screen`, `defect` are definition-only
+# ground-truth metadata kept here for reference. They are IGNORED by the build
+# script — generated suite records use only the standard 7 fields, with
+# `app` = the launchable package (com.mazenbashammakh.mobile).
+#
+# Build into the suite:  python build_custom_tasks.py   (see README.md)
+
+web:
+  - task: Open Priya Nair's message about the invoice.
+    app: http://localhost:3000/failures/ghost-element-stale-list-node
+    defect: B_GHOST_ELEMENT_STALE_LIST_NODE  # F1.1
+
+  - task: Turn on the Desktop Alerts toggle.
+    app: http://localhost:3000/failures/aria-hidden-swallows-control
+    defect: M_ARIA_HIDDEN_SWALLOWS_CONTROL  # F1.3
+
+  - task: Delete your account and confirm the deletion.
+    app: http://localhost:3000/failures/native-dialog-outside-dom
+    defect: B_NATIVE_DIALOG_OUTSIDE_DOM  # F1.4
+
+  - task: Search the Help Center for password reset instructions.
+    app: http://localhost:3000/failures/action-not-exposed-in-tree
+    defect: M_ACTION_NOT_EXPOSED_IN_TREE  # F1.5
+
+  - task: Subscribe to the Weekly Newsletter.
+    app: http://localhost:3000/failures/low-contrast-boundary
+    defect: V_LOW_CONTRAST_BOUNDARY  # F1.6
+
+  - task: Dismiss the storage almost full notice.
+    app: http://localhost:3000/failures/static-element-styled-actionable
+    defect: V_STATIC_ELEMENT_STYLED_ACTIONABLE  # F2.1
+
+  - task: Archive the Project Proposal.pdf document.
+    app: http://localhost:3000/failures/actionable-element-styled-static
+    defect: V_ACTIONABLE_ELEMENT_STYLED_STATIC  # F2.2
+
+  - task: Open the site menu and go to the Technology section.
+    app: http://localhost:3000/failures/overloaded-icon-multi-purpose
+    defect: M_OVERLOADED_ICON_MULTI_PURPOSE  # F2.3
+
+  - task: Open the settings for the Chatterbox app.
+    app: http://localhost:3000/failures/rebrand-breaks-grounding
+    defect: M_REBRAND_BREAKS_GROUNDING  # F2.4
+
+  - task: Open the service that is currently down.
+    app: http://localhost:3000/failures/color-transform-defeats-cue
+    defect: V_COLOR_TRANSFORM_DEFEATS_CUE  # F2.5
+
+  - task: Open the message from Elena Petrova.
+    app: http://localhost:3000/failures/recycled-row-stale-label
+    defect: B_RECYCLED_ROW_STALE_LABEL  # F3.1
+
+  - task: Select the second plan.
+    app: http://localhost:3000/failures/dom-order-visual-mismatch
+    defect: V_DOM_ORDER_VISUAL_MISMATCH  # F3.2
+
+  - task: Invite a new team member by email.
+    app: http://localhost:3000/failures/popup-outside-dom-hierarchy
+    defect: M_POPUP_OUTSIDE_DOM_HIERARCHY  # F3.3
+
+  - task: Click the Renew now button to renew your subscription.
+    app: http://localhost:3000/failures/dom-present-visually-hidden
+    defect: V_DOM_PRESENT_VISUALLY_HIDDEN  # F3.4
+
+  - task: Dismiss the domain renewal reminder.
+    app: http://localhost:3000/failures/gesture-only-no-visible-cue
+    defect: B_GESTURE_ONLY_NO_VISIBLE_CUE  # F4.1
+
+  - task: Set the shipping city to Munich and save the address.
+    app: http://localhost:3000/failures/combobox-uncommitted-value
+    defect: B_COMBOBOX_UNCOMMITTED_VALUE  # F4.2
+
+  - task: Go to Track your order.
+    app: http://localhost:3000/failures/hidden-behind-menu-only-path
+    defect: B_HIDDEN_BEHIND_MENU_ONLY_PATH  # F5.1
+
+  - task: Open invoice #1041 for review, then open invoice #1042 for review, then approve invoice #1041 in its review tab.
+    app: http://localhost:3000/failures/action-misrouted-across-tabs
+    defect: B_ACTION_MISROUTED_ACROSS_TABS  # F5.2
+
+  - task: Go to the order confirmation page and note the order number.
+    app: http://localhost:3000/failures/heading-label-mismatch
+    defect: M_HEADING_LABEL_MISMATCH  # F6.1
+
+  - task: Open the Wireless Mouse M1 in Graphite with Bluetooth.
+    app: http://localhost:3000/failures/cluttered-list-similar-items
+    defect: V_CLUTTERED_LIST_SIMILAR_ITEMS  # F6.2
+
+  - task: Open the latest post.
+    app: http://localhost:3000/failures/missing-filter-sort-controls
+    defect: B_MISSING_FILTER_SORT_CONTROLS  # F6.3
+
+  - task: Find out how many days you have to request a refund.
+    app: http://localhost:3000/failures/unsupported-language-content
+    defect: M_UNSUPPORTED_LANGUAGE_CONTENT  # F6.4
+
+  - task: Sign in with an incorrect email and password and report what happens.
+    app: http://localhost:3000/failures/non-updated-state-after-failed-action
+    defect: B_NON_UPDATED_STATE_AFTER_FAILED_ACTION  # F7.1
+
+  - task: Set a password of "sunset" and submit, then report the validation error.
+    app: http://localhost:3000/failures/vague-validation-error
+    defect: M_VAGUE_VALIDATION_ERROR  # F7.2
+
+  - task: Submit the contact form with your name, email, and phone number.
+    app: http://localhost:3000/failures/required-field-no-indicator
+    defect: V_REQUIRED_FIELD_NO_INDICATOR  # F7.3
+
+  - task: Save the draft post.
+    app: http://localhost:3000/failures/click-no-visible-effect
+    defect: B_CLICK_NO_VISIBLE_EFFECT  # F7.4
+
+  - task: Scroll the activity feed until you reach the end.
+    app: http://localhost:3000/failures/unbounded-infinite-scroll
+    defect: B_UNBOUNDED_INFINITE_SCROLL  # F7.5
+
+  - task: Find the names of the recommended products below the desk lamp details.
+    app: http://localhost:3000/failures/late-render-outside-viewport
+    defect: B_LATE_RENDER_OUTSIDE_VIEWPORT  # F8.1
+
+  - task: Confirm the appointment with Dr. Alvarez.
+    app: http://localhost:3000/failures/slow-load-exceeds-budget
+    defect: B_SLOW_LOAD_EXCEEDS_BUDGET  # F8.2
+
+  - task: Add the Mechanical Keyboard to your cart.
+    app: http://localhost:3000/failures/popup-after-snapshot
+    defect: B_POPUP_AFTER_SNAPSHOT  # F8.3
+
+  - task: Read the "How We Scaled to 1M Users" article.
+    app: http://localhost:3000/failures/stale-route-removed-page
+    defect: B_STALE_ROUTE_REMOVED_PAGE  # F8.4
+
+  - task: Open the Reports tab.
+    app: http://localhost:3000/failures/blocking-modal-no-close
+    defect: B_BLOCKING_MODAL_NO_CLOSE  # F9.1
+
+  - task: Write a short post and click Post to publish it.
+    app: http://localhost:3000/failures/invisible-overlay-captures-clicks
+    defect: V_INVISIBLE_OVERLAY_CAPTURES_CLICKS  # F9.2
+
+  - task: Subscribe to the Pro Plan.
+    app: http://localhost:3000/failures/visual-occlusion-non-blocking-overlay
+    defect: V_VISUAL_OCCLUSION_NON_BLOCKING_OVERLAY  # F9.3
+
+    
+
+mobile:
+    - task: Add the Nike Air Max Pulse to your cart.
+      target_app: Shop
+      start_route: /
+      target_screen: /shop/product/12
+      defect: B_NON_CLICKABLE_NORMAL_CTA
+
+    - task: Filter the shop to only show products priced at $100 or less.
+      target_app: Shop
+      start_route: /
+      target_screen: /shop
+      defect: M_CUSTOM_SLIDER_MISSING_A11Y_SEMANTICS
+
+    - task: Find the iOS Developer role and tell me its salary range.
+      target_app: Careers
+      start_route: /
+      target_screen: /careers
+      defect: B_ASYNC_CONTENT_LATE_RENDER
+
+    - task: Open the Senior Frontend Engineer role at Acme Corp and save it.
+      target_app: Careers
+      start_route: /
+      target_screen: /careers/job/acme
+      defect: B_CLICK_NO_VISIBLE_EFFECT
+
+    - task: Pause the track that's playing (Midnight Reverie).
+      target_app: Music
+      start_route: /
+      target_screen: /music/player/midnight
+      defect: M_ACTION_NOT_EXPOSED_IN_TREE
+
+    - task: Open a song in Music, skip to the next track, then go back to the previous one.
+      target_app: Music
+      start_route: /
+      target_screen: /music/player/ocean
+      defect: B_GHOST_ELEMENT_NO_BACKING_NODE
+
+    - task: Share Anna's hiking post.
+      target_app: Social
+      start_route: /
+      target_screen: /social
+      defect: M_MISSING_ACCESSIBLE_NAME
+
+    - task: Archive the Figma newsletter email.
+      target_app: Mail
+      start_route: /
+      target_screen: /mail
+      defect: B_SWIPE_AMBIGUOUS_DIRECTION
+
+    - task: Delete the "Buy groceries" task.
+      target_app: Tasks
+      start_route: /
+      target_screen: /tasks
+      defect: B_LONG_PRESS_ONLY_CONTEXT_MENU
+
+    - task: Set the alarm for 07:30.
+      target_app: Clock
+      start_route: /
+      target_screen: /clock
+      defect: B_DENSE_TOUCH_TARGETS
+
+    - task: Dismiss the "New Feature Available" announcement, then read out today's revenue.
+      target_app: Dashboard
+      start_route: /
+      target_screen: /dashboard
+      defect: B_BLOCKING_MODAL_NO_CLOSE
+
+    # --- Shop ---
+    - task: In the Shop app, open Browse Categories and open the "Garden Hose" product.
+      target_app: Shop
+      start_route: /
+      target_screen: /shop/browse
+      defect: M_GHOST_ELEMENTS_CAROUSEL # E02
+
+    - task: In the Shop app, open the Cart and remove the USB-C Hub 7-in-1.
+      target_app: Shop
+      start_route: /
+      target_screen: /shop/cart
+      defect: M_SWIPE_NO_CUE_CART # E06
+
+    - task: In the Shop app, open Write a Review, give the product a 4-star rating, and submit the review.
+      target_app: Shop
+      start_route: /
+      target_screen: /shop/review
+      defect: M_RATING_TAP_AS_SWIPE # E08
+
+    - task: In the Shop app, open the Featured Product and add it to your cart.
+      target_app: Shop
+      start_route: /
+      target_screen: /shop/featured
+      defect: M_DUPLICATE_CTA_ONE_DEAD # E25
+
+    - task: In the Shop app, open Checkout and place the order.
+      target_app: Shop
+      start_route: /
+      target_screen: /shop/checkout
+      defect: M_SWAPPED_DIALOG_BUTTONS # E27
+
+    - task: In the Shop app, open Product Details, then use the back button to return to the product list.
+      target_app: Shop
+      start_route: /
+      target_screen: /shop/details
+      defect: M_DEAD_BACK_BUTTON # M01
+
+    - task: In the Shop app, open the Photo Gallery and view the next product photo.
+      target_app: Shop
+      start_route: /
+      target_screen: /shop/gallery
+      defect: M_DEAD_CAROUSEL_ARROWS # M02
+
+    - task: In the Shop app, open the Quantity screen and increase the quantity to 2.
+      target_app: Shop
+      start_route: /
+      target_screen: /shop/quantity
+      defect: M_DEAD_STEPPER # M07
+
+    - task: In the Shop app, open Onboarding and jump to the last slide.
+      target_app: Shop
+      start_route: /
+      target_screen: /shop/onboarding
+      defect: M_DEAD_PAGINATION_DOTS # M10
+
+    - task: In the Shop app, open the Flash Deal and buy the Aurora Desk Lamp.
+      target_app: Shop
+      start_route: /
+      target_screen: /shop/deal
+      defect: M_LOW_CONTRAST_CTA # P01
+
+    - task: In the Shop app, open the Listing and open the item that is on sale.
+      target_app: Shop
+      start_route: /
+      target_screen: /shop/listing
+      defect: M_TEXT_AS_IMAGE # P02
+
+    - task: In the Shop app, open Choose Colour and select the green colour.
+      target_app: Shop
+      start_route: /
+      target_screen: /shop/color
+      defect: M_COLOR_FILTER_GROUNDING # B7 (vision-only: OS grayscale filter destroys the colour cue, swatches indistinguishable; text-only: reads the "Green" accessible name)
+
+    # --- Mail ---
+    - task: In the Mail app, open All Mail and open the email from Sarah Chen.
+      target_app: Mail
+      start_route: /
+      target_screen: /mail/inbox
+      defect: M_INVISIBLE_TAP_OVERLAY # E03
+
+    - task: In the Mail app, open Compose and send the reply to Sarah Chen.
+      target_app: Mail
+      start_route: /
+      target_screen: /mail/compose
+      defect: M_SEND_NO_EFFECT # E18
+
+    - task: In the Mail app, open Labels and archive the Figma newsletter.
+      target_app: Mail
+      start_route: /
+      target_screen: /mail/labels
+      defect: M_LABEL_VISUAL_MISMATCH # E24
+
+    - task: In the Mail app, open Sync and open the first email in the inbox.
+      target_app: Mail
+      start_route: /
+      target_screen: /mail/sync
+      defect: M_LATE_RENDER_INBOX # E30
+
+    - task: In the Mail app, open Categories and switch to the Promotions tab.
+      target_app: Mail
+      start_route: /
+      target_screen: /mail/categories
+      defect: M_DEAD_SEGMENT # M09
+
+    - task: In the Mail app, open Search and search your inbox.
+      target_app: Mail
+      start_route: /
+      target_screen: /mail/search
+      defect: M_DEAD_SEARCH_ICON # M12
+
+    - task: In the Mail app, open Draft and send the email to alex@work.com.
+      target_app: Mail
+      start_route: /
+      target_screen: /mail/draft
+      defect: M_PLACEHOLDER_AS_VALUE # P05
+
+    - task: In the Mail app, open Archive and archive the email from Dropbox.
+      target_app: Mail
+      start_route: /
+      target_screen: /mail/archive
+      defect: M_GESTURE_ONLY_ARCHIVE  # B12 (vision-only: no painted archive affordance, gesture-only; text-only: invokes the "Archive" custom a11y action). Native-only text-success path — RNW does not surface accessibilityActions.
+
+    # --- Music ---
+    - task: In the Music app, open Playlists and add "Ocean Breeze" to a playlist.
+      target_app: Music
+      start_route: /
+      target_screen: /music/playlist
+      defect: M_LONGPRESS_NO_CUE_MUSIC # E07
+
+    - task: In the Music app, open Albums and play the track "Intro" by Solar Winds.
+      target_app: Music
+      start_route: /
+      target_screen: /music/album
+      defect: M_DUPLICATE_ACCESSIBLE_NAME # E23
+
+    - task: In the Music app, open Browse and switch to the Search tab.
+      target_app: Music
+      start_route: /
+      target_screen: /music/browse
+      defect: M_DEAD_TAB_ITEM # M03
+
+    - task: In the Music app, open Discover and tap "See all" on the Recently Played section.
+      target_app: Music
+      start_route: /
+      target_screen: /music/discover
+      defect: M_DEAD_SEEALL_LINK # M11
+
+    - task: In the Music app, open Up Next and move "Ocean Breeze" to the top of the queue.
+      target_app: Music
+      start_route: /
+      target_screen: /music/queue
+      defect: M_REORDER_MOVE_ACTIONS  # B14 (vision-only: reorder is long-press-drag only, must synthesize a sustained gesture; text-only: invokes discrete "Move up"/"Move to top" custom actions). NOT native-only — HTML5 DnD exists on web; discrete-action text path is native-only (RNW omits accessibilityActions).`
+
+    # --- Social ---
+    - task: In the Social app, open the Feed and like Daniel's post about the marathon.
+      target_app: Social
+      start_route: /
+      target_screen: /social/feed
+      defect: M_GHOST_ELEMENTS_FEED # E01
+
+    - task: In the Social app, open the Story Viewer and like the photo.
+      target_app: Social
+      start_route: /
+      target_screen: /social/story
+      defect: M_DOUBLE_TAP_ONLY_LIKE # E11
+
+    - task: In the Social app, open the Profile and follow Anna Kovacs.
+      target_app: Social
+      start_route: /
+      target_screen: /social/profile
+      defect: M_ZERO_HIT_AREA_FOLLOW # E19
+
+    - task: In the Social app, open the Stories bar and open the 3rd story.
+      target_app: Social
+      start_route: /
+      target_screen: /social/stories
+      defect: M_MOVING_TARGET_CAROUSEL # E28
+
+    - task: In the Social app, open Post Options and open the post's overflow (...) menu.
+      target_app: Social
+      start_route: /
+      target_screen: /social/post
+      defect: M_DEAD_OVERFLOW_MENU # M05
+
+    - task: In the Social app, open the Timeline and like the first post.
+      target_app: Social
+      start_route: /
+      target_screen: /social/timeline
+      defect: M_LAYOUT_SHIFT_MISTAP # P08
+
+    # --- Careers ---
+    - task: In the Careers app, open the Apply form and submit your application for the Senior Frontend Engineer role.
+      target_app: Careers
+      start_route: /
+      target_screen: /careers/apply
+      defect: M_CTA_BELOW_KEYBOARD # E05
+
+    - task: In the Careers app, open the Position Detail and apply to the job.
+      target_app: Careers
+      start_route: /
+      target_screen: /careers/position
+      defect: M_NONCLICKABLE_APPLY # E15
+
+    - task: In the Careers app, open Filter Jobs and filter the results by "Remote".
+      target_app: Careers
+      start_route: /
+      target_screen: /careers/filter
+      defect: M_DEAD_DROPDOWN # M08
+
+    # --- Tasks ---
+    - task: In the Tasks app, open Reorder and move "Buy groceries" to the top of the list.
+      target_app: Tasks
+      start_route: /
+      target_screen: /tasks/reorder
+      defect: M_DRAG_REORDER_ONLY # E13
+
+    - task: In the Tasks app, open the Checklist and mark "Call dentist" as done.
+      target_app: Tasks
+      start_route: /
+      target_screen: /tasks/checklist
+      defect: M_DECOY_OVERLAY_CHECKBOX # E20
+
+    - task: In the Tasks app, open Projects and create a new task.
+      target_app: Tasks
+      start_route: /
+      target_screen: /tasks/projects
+      defect: M_DEAD_FAB # M04
+
+    - task: In the Tasks app, open the Agenda and complete the first task (the one at the top of the list).
+      target_app: Tasks
+      start_route: /
+      target_screen: /tasks/agenda
+      defect: M_SCRAMBLED_FOCUS_ORDER # P10
+
+    - task: In the Tasks app, open All Tasks, scroll down, and mark "Renew passport" as done.
+      target_app: Tasks
+      start_route: /
+      target_screen: /tasks/longlist
+      defect: M_RECYCLED_NODE_IDENTITY # A5 (text-only: recycled row node ids go stale on scroll, wrong item; vision-only: re-reads pixels)
+
+    # --- Clock ---
+    - task: In the Clock app, open Set Bedtime and set the bedtime to 9:00 PM.
+      target_app: Clock
+      start_route: /
+      target_screen: /clock/timer
+      defect: M_PICKER_TAP_AS_SWIPE # E09
+
+    # --- Dashboard ---
+    - task: In the Dashboard app, open Reports and export the Q2 Summary report.
+      target_app: Dashboard
+      start_route: /
+      target_screen: /dashboard/reports
+      defect: M_BANNER_OCCLUDES_CTA # E04
+
+    - task: In the Dashboard app, open Overview and refresh the data.
+      target_app: Dashboard
+      start_route: /
+      target_screen: /dashboard/overview
+      defect: M_DISABLED_LOOKS_ENABLED # E17
+
+    - task: In the Dashboard app, open Navigation Menu and open the side menu.
+      target_app: Dashboard
+      start_route: /
+      target_screen: /dashboard/menu
+      defect: M_DEAD_HAMBURGER # M06
+
+    - task: In the Dashboard app, open Service Status and open the service that is down.
+      target_app: Dashboard
+      start_route: /
+      target_screen: /dashboard/status
+      defect: M_COLOR_ONLY_STATE # P04
+
+    # --- Settings (reached via the gear icon on the Home screen) ---
+    - task: Open Settings (gear icon on the Home screen), open Preferences, and turn on Dark Mode.
+      target_app: Settings
+      start_route: /
+      target_screen: /settings/preferences
+      defect: M_TOGGLE_POINTEREVENTS_NONE # E16
+
+    - task: Open Settings (gear icon on the Home screen), open Installed Apps, and open the settings for the Chirp app.
+      target_app: Settings
+      start_route: /
+      target_screen: /settings/apps
+      defect: M_RENAME_SETTINGS_APPS # E22
+
+    - task: Open Settings (gear icon on the Home screen), open Help, and close the dialog that appears.
+      target_app: Settings
+      start_route: /
+      target_screen: /settings/help
+      defect: M_DEAD_CLOSE_ICON # M13
+
+    - task: Open Settings (gear icon on the Home screen), open Notifications, and enable push notifications.
+      target_app: Settings
+      start_route: /
+      target_screen: /settings/notifications
+      defect: M_DEAD_CHECKBOX # M14
+
+    - task: Open Settings (gear icon on the Home screen), open Open-source Licenses, and open the "MIT License" entry.
+      target_app: Settings
+      start_route: /
+      target_screen: /settings/licenses
+      defect: M_NESTED_SCROLL_TRAP # P09
+
+    - task: Open Settings (gear icon on the Home screen), open Delete Account, and delete your account.
+      target_app: Settings
+      start_route: /
+      target_screen: /settings/account
+      defect: M_HOLD_TO_CONFIRM_DELETE  # B16 (vision-only: tap no-ops, only a timed 1.5s hold fires; text-only: invokes the "Confirm account deletion" custom action directly). NOT native-only — pointer press-hold exists on web; direct-action text path is native-only (RNW omits accessibilityActions).
+
+    # --- App Store ---
+    - task: In the App Store app, find and install the Chirp app.
+      target_app: App Store
+      start_route: /
+      target_screen: /appstore
+      defect: M_RENAME_INSTALL_APPSTORE # E21 (text-only & vision-only grounding)
+
+    # --- Photos ---
+    - task: In the Photos app, open the Library and open the most recent photo.
+      target_app: Photos
+      start_route: /
+      target_screen: /photos
+      defect: M_PULL_TO_REFRESH_ONLY # E10
+
+    - task: In the Photos app, open the Photo Viewer and download the photo.
+      target_app: Photos
+      start_route: /
+      target_screen: /photos/viewer
+      defect: M_ICON_SEMANTIC_MISMATCH # P06
+
+    - task: In the Photos app, open Photo Details and add the photo to your Favorites.
+      target_app: Photos
+      start_route: /
+      target_screen: /photos/details
+      defect: M_NOT_IMPORTANT_FOR_A11Y # A2 (text-only: toolbar subtree flagged not-important, button absent; vision-only: button drawn)
+
+    # --- Maps ---
+    - task: In the Maps app, find and open the "Central Park" pin.
+      target_app: Maps
+      start_route: /
+      target_screen: /maps
+      defect: M_PINCH_ZOOM_REVEAL # E12
+
+    - task: In the Maps app, open Current Location and center the map on your current location.
+      target_app: Maps
+      start_route: /
+      target_screen: /maps/locate
+      defect: M_SYSTEM_DIALOG_OUTSIDE_TREE # A3 (text-only: permission dialog outside app tree, blocker invisible; vision-only: dialog drawn)
+
+    - task: In the Maps app, open Rate This Place and give it a 4-star rating.
+      target_app: Maps
+      start_route: /
+      target_screen: /maps/rate
+      defect: M_RATING_DRAG_SETTABLE  # B13 (vision-only: tap inert, drag-only with imprecise endpoint; text-only: invokes the "Set rating to 4" settable a11y action exactly). NOT native-only — pointer-drag exists on web; settable-action text path is native-only (RNW omits accessibilityActions).
+
+    # --- Banking ---
+    - task: In the Banking app, open Accounts and categorize the Stripe transaction as "Business".
+      target_app: Banking
+      start_route: /
+      target_screen: /banking
+      defect: M_SWIPE_CATEGORIZE # E14
+
+    - task: In the Banking app, open Transfer and send $50 to Alex Johnson.
+      target_app: Banking
+      start_route: /
+      target_screen: /banking/transfer
+      defect: M_OPTIMISTIC_LIE_TRANSFER # E26
+
+    - task: In the Banking app, open Confirm Payment and confirm the payment.
+      target_app: Banking
+      start_route: /
+      target_screen: /banking/confirm
+      defect: M_TRUNCATED_A11Y_NAME # P03
+
+    - task: In the Banking app, open Add Payee and add Alex Johnson as a payee.
+      target_app: Banking
+      start_route: /
+      target_screen: /banking/payee
+      defect: M_TRANSIENT_CONFIRMATION # P07
+
+    - task: In the Banking app, open Card Application, fill in the form, and submit your application.
+      target_app: Banking
+      start_route: /
+      target_screen: /banking/webform
+      defect: M_WEBVIEW_OPAQUE_A11Y_TREE # A1 (text-only sees one opaque WebView node; vision-only renders the form)
+
+    - task: In the Banking app, open Quick Actions and tap "Pay Bills".
+      target_app: Banking
+      start_route: /
+      target_screen: /banking/quickactions
+      defect: M_LOW_CONTRAST_CONTROLS # B11 (vision-only: tiles sub-threshold contrast, label/boundary unreadable; text-only: reads the "Pay Bills" label/role/bounds). NOT native-only — reproduces on web; mobile only amplifies via auto-brightness/sunlight/power-saver.
+
+    # --- Calendar ---
+    - task: In the Calendar app, tap New Event and create an event titled "Team Standup".
+      target_app: Calendar
+      start_route: /
+      target_screen: /calendar/new
+      defect: M_INPUT_SILENT_TRUNCATE # E29
+
+
+    # --- NEW BATCH ---
+    - task: In the Music app, open Lyrics and view the lyrics for "Ocean Breeze".
+      target_app: Music
+      start_route: /
+      target_screen: /music/lyrics
+      defect: M_ACTIONABLE_TEXT_STYLED_STATIC  # F2.2 fails vision but text succeeds (it's Pressable)
+
+    - task: In the Mail app, open Toolbar and search your inbox for "invoice".
+      target_app: Mail
+      start_route: /
+      target_screen: /mail/toolbar
+      defect: M_OVERLOADED_ICON_SEARCH_COMPOSE  # F2.3
+
+    - task: In the Calendar app, open New Event, set the location to "Central Park", and save the event.
+      target_app: Calendar
+      start_route: /
+      target_screen: /calendar/location
+      defect: M_COMBOBOX_UNCOMMITTED_VALUE  #! F4.2 implementation needs review (done) 
+
+    - task: In the Banking app, open Support and report a fraudulent
+      target_app: Banking
+      start_route: /
+      target_screen: /banking/support
+      defect: M_HIDDEN_NAV_SUBTLE_MENU  #! F5.1 more relevant to the web (onHover)
+
+    - task: In the Shop app, open Track Order and check the delivery status of your package.
+      target_app: Shop
+      start_route: /
+      target_screen: /shop/track
+      defect: M_HEADING_LABEL_MISMATCH  #! F6.1 bad implementation (Shipment ~ Delivery)
+
+    - task: In the Careers app, open All Openings and open the Senior Backend Engineer role at Nimbus Cloud.
+      target_app: Careers
+      start_route: /
+      target_screen: /careers/similar
+      defect: M_CLUTTERED_SIMILAR_LIST  # F6.2 fails vision but text succeeds
+
+    - task: In the Photos app, open the All Photos album and open the most recently taken photo.
+      target_app: Photos
+      start_route: /
+      target_screen: /photos/album
+      defect: M_MISSING_SORT_CONTROLS  # F6.3
+
+    - task: In the App Store app, open the Notiz app listing and read its description before installing.
+      target_app: App Store
+      start_route: /
+      target_screen: /appstore/listing
+      defect: M_UNSUPPORTED_LANGUAGE_CONTENT  #! F6.4 not a failure
+
+    - task: In the Careers app, open Reapply and submit your application for the DevOps Engineer role.
+      target_app: Careers
+      start_route: /
+      target_screen: /careers/reapply
+      defect: M_SILENT_FAILED_SUBMISSION  # F7.1 
+
+    - task: In the Calendar app, open Recurring Event and create a we starting next Monday.
+      target_app: Calendar
+      start_route: /
+      target_screen: /calendar/recurring
+      defect: M_VAGUE_VALIDATION_ERROR  #! F7.2 doesn't succeed in baseline (done - fixed)
+
+    - task: In the Social app, open Create Post and publish a post thend!"
+      target_app: Social
+      start_route: /
+      target_screen: /social/compose
+      defect: M_REQUIRED_FIELD_NO_INDICATOR  #! F7.3 should remove the validation error from both baseline and faulty (done only for faulty)
+
+    - task: In the Dashboard app, open Activity Log and open the very first entry (the oldest event).
+      target_app: Dashboard
+      start_route: /
+      target_screen: /dashboard/activity
+      defect: M_UNBOUNDED_SCROLL_NO_TERMINAL_STATE  #! F7.5 list is too short to scroll (done - made it 64 entries)
+
+    - task: In the Shop app, open Recommended and open the "Wireless Charging Pad".
+      target_app: Shop
+      start_route: /
+      target_screen: /shop/recommended
+      defect: M_LAZY_SECTION_OUTSIDE_VIEWPORT  #! F8.1 it's still in viewport, need to push it further down (done)
+
+    - task: In the Tasks app, open Sync and mark "Submit expense report" as done.
+      target_app: Tasks
+      start_route: /
+      target_screen: /tasks/sync
+      defect: M_POPUP_AFTER_SNAPSHOT  #! F8.3 need to further delay the popup (done)
+
+    - task: In the Dashboard app, open Alerts and refresh the data.
+      target_app: Dashboard
+      start_route: /
+      target_screen: /dashboard/alerts
+      defect: M_NONBLOCKING_OVERLAY_OCCLUSION  # F9.3 fails the visual agent
+
+desktop:
+    - task: Open settings and check how much is the screen timeout configured for.
+
+    - task: Open Sticky Notes, create a new note, and write "Buy milk" in it.
+
+    - task: Open the Calendar app and create a new event for tomorrow at 3 PM, titled "Meeting with Bob".
+
+    - task: Open the Start menu and search for "Notepad"

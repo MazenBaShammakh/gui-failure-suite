@@ -695,3 +695,132 @@ osworld-desktop_windows-2690,osworld_windows_test,OSWorld,test,ppt,desktop_windo
 osworld-desktop_windows-2691,osworld_windows_test,OSWorld,test,ppt,desktop_windows,"Make a duplicate of the last two slides for me, please."
 osworld-desktop_windows-2692,osworld_windows_test,OSWorld,test,word,desktop_windows,"I have been practicing professional writing lately. Now I am writing essay which requires one paragraph each for introduction, body and conclusion with single-space for introduction, double-space for body then one-and-a-half-space for conclusion. Could you help me on this?"
 osworld-desktop_windows-2693,osworld_windows_test,OSWorld,test,word,desktop_windows,Capitalize the first letter of all words.
+gui-failure-suite-mobile-2694,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,Add the Nike Air Max Pulse to your cart.
+gui-failure-suite-mobile-2695,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,Filter the shop to only show products priced at $100 or less.
+gui-failure-suite-mobile-2696,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,Find the iOS Developer role and tell me its salary range.
+gui-failure-suite-mobile-2697,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,Open the Senior Frontend Engineer role at Acme Corp and save it.
+gui-failure-suite-mobile-2698,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,Pause the track that's playing (Midnight Reverie).
+gui-failure-suite-mobile-2699,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"Open a song in Music, skip to the next track, then go back to the previous one."
+gui-failure-suite-mobile-2700,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,Share Anna's hiking post.
+gui-failure-suite-mobile-2701,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,Archive the Figma newsletter email.
+gui-failure-suite-mobile-2702,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"Delete the ""Buy groceries"" task."
+gui-failure-suite-mobile-2703,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,Set the alarm for 07:30.
+gui-failure-suite-mobile-2704,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"Dismiss the ""New Feature Available"" announcement, then read out today's revenue."
+gui-failure-suite-desktop_windows-2705,gui-failure-suite,GUIFailureSuite,test,desktop.exe,desktop_windows,Open settings and check how much is the screen timeout configured for.
+gui-failure-suite-desktop_windows-2706,gui-failure-suite,GUIFailureSuite,test,desktop.exe,desktop_windows,"Open Sticky Notes, create a new note, and write ""Buy milk"" in it."
+gui-failure-suite-desktop_windows-2707,gui-failure-suite,GUIFailureSuite,test,desktop.exe,desktop_windows,"Open the Calendar app and create a new event for tomorrow at 3 PM, titled ""Meeting with Bob""."
+gui-failure-suite-desktop_windows-2708,gui-failure-suite,GUIFailureSuite,test,desktop.exe,desktop_windows,"Open the Start menu and search for ""Notepad"""
+gui-failure-suite-mobile-2709,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Shop app, open Browse Categories and open the ""Garden Hose"" product."
+gui-failure-suite-mobile-2710,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Shop app, open the Cart and remove the USB-C Hub 7-in-1."
+gui-failure-suite-mobile-2711,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Shop app, open Write a Review, give the product a 4-star rating, and submit the review."
+gui-failure-suite-mobile-2712,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Shop app, open the Featured Product and add it to your cart."
+gui-failure-suite-mobile-2713,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Shop app, open Checkout and place the order."
+gui-failure-suite-mobile-2714,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Shop app, open Product Details, then use the back button to return to the product list."
+gui-failure-suite-mobile-2715,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Shop app, open the Photo Gallery and view the next product photo."
+gui-failure-suite-mobile-2716,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Shop app, open the Quantity screen and increase the quantity to 2."
+gui-failure-suite-mobile-2717,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Shop app, open Onboarding and jump to the last slide."
+gui-failure-suite-mobile-2718,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Shop app, open the Flash Deal and buy the Aurora Desk Lamp."
+gui-failure-suite-mobile-2719,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Shop app, open the Listing and open the item that is on sale."
+gui-failure-suite-mobile-2720,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Mail app, open All Mail and open the email from Sarah Chen."
+gui-failure-suite-mobile-2721,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Mail app, open Compose and send the reply to Sarah Chen."
+gui-failure-suite-mobile-2722,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Mail app, open Labels and archive the Figma newsletter."
+gui-failure-suite-mobile-2723,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Mail app, open Sync and open the first email in the inbox."
+gui-failure-suite-mobile-2724,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Mail app, open Categories and switch to the Promotions tab."
+gui-failure-suite-mobile-2725,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Mail app, open Search and search your inbox."
+gui-failure-suite-mobile-2726,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Mail app, open Draft and send the email to alex@work.com."
+gui-failure-suite-mobile-2727,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Music app, open Playlists and add ""Ocean Breeze"" to a playlist."
+gui-failure-suite-mobile-2728,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Music app, open Albums and play the track ""Intro"" by Solar Winds."
+gui-failure-suite-mobile-2729,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Music app, open Browse and switch to the Search tab."
+gui-failure-suite-mobile-2730,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Music app, open Discover and tap ""See all"" on the Recently Played section."
+gui-failure-suite-mobile-2731,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Social app, open the Feed and like Daniel's post about the marathon."
+gui-failure-suite-mobile-2732,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Social app, open the Story Viewer and like the photo."
+gui-failure-suite-mobile-2733,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Social app, open the Profile and follow Anna Kovacs."
+gui-failure-suite-mobile-2734,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Social app, open the Stories bar and open the 3rd story."
+gui-failure-suite-mobile-2735,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Social app, open Post Options and open the post's overflow (...) menu."
+gui-failure-suite-mobile-2736,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Social app, open the Timeline and like the first post."
+gui-failure-suite-mobile-2737,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Careers app, open the Apply form and submit your application for the Senior Frontend Engineer role."
+gui-failure-suite-mobile-2738,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Careers app, open the Position Detail and apply to the job."
+gui-failure-suite-mobile-2739,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Careers app, open Filter Jobs and filter the results by ""Remote""."
+gui-failure-suite-mobile-2740,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Tasks app, open Reorder and move ""Buy groceries"" to the top of the list."
+gui-failure-suite-mobile-2741,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Tasks app, open the Checklist and mark ""Call dentist"" as done."
+gui-failure-suite-mobile-2742,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Tasks app, open Projects and create a new task."
+gui-failure-suite-mobile-2743,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Tasks app, open the Agenda and complete the first task (the one at the top of the list)."
+gui-failure-suite-mobile-2744,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Clock app, open Set Bedtime and set the bedtime to 9:00 PM."
+gui-failure-suite-mobile-2745,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Dashboard app, open Reports and export the Q2 Summary report."
+gui-failure-suite-mobile-2746,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Dashboard app, open Overview and refresh the data."
+gui-failure-suite-mobile-2747,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Dashboard app, open Navigation Menu and open the side menu."
+gui-failure-suite-mobile-2748,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Dashboard app, open Service Status and open the service that is down."
+gui-failure-suite-mobile-2749,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"Open Settings (gear icon on the Home screen), open Preferences, and turn on Dark Mode."
+gui-failure-suite-mobile-2750,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"Open Settings (gear icon on the Home screen), open Installed Apps, and open the settings for the Chirp app."
+gui-failure-suite-mobile-2751,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"Open Settings (gear icon on the Home screen), open Help, and close the dialog that appears."
+gui-failure-suite-mobile-2752,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"Open Settings (gear icon on the Home screen), open Notifications, and enable push notifications."
+gui-failure-suite-mobile-2753,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"Open Settings (gear icon on the Home screen), open Open-source Licenses, and open the ""MIT License"" entry."
+gui-failure-suite-mobile-2754,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the App Store app, find and install the Chirp app."
+gui-failure-suite-mobile-2755,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Photos app, open the Library and open the most recent photo."
+gui-failure-suite-mobile-2756,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Photos app, open the Photo Viewer and download the photo."
+gui-failure-suite-mobile-2757,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Maps app, find and open the ""Central Park"" pin."
+gui-failure-suite-mobile-2758,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Banking app, open Accounts and categorize the Stripe transaction as ""Business""."
+gui-failure-suite-mobile-2759,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Banking app, open Transfer and send $50 to Alex Johnson."
+gui-failure-suite-mobile-2760,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Banking app, open Confirm Payment and confirm the payment."
+gui-failure-suite-mobile-2761,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Banking app, open Add Payee and add Alex Johnson as a payee."
+gui-failure-suite-mobile-2762,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Calendar app, tap New Event and create an event titled ""Team Standup""."
+gui-failure-suite-mobile-2763,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Banking app, open Card Application, fill in the form, and submit your application."
+gui-failure-suite-mobile-2764,gui-failure-suite,GUIFailureSuite,test,Photos,mobile,"In the Photos app, open Photo Details and add the photo to your Favorites."
+gui-failure-suite-mobile-2765,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Maps app, open Current Location and center the map on your current location."
+gui-failure-suite-mobile-2766,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Tasks app, open All Tasks, scroll down, and mark ""Renew passport"" as done."
+gui-failure-suite-mobile-2767,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Shop app, open Choose Colour and select the green colour."
+gui-failure-suite-mobile-2768,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Banking app, open Quick Actions and tap ""Pay Bills""."
+gui-failure-suite-web-2769,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000/failures/ghost-element-stale-list-node,web,Open Priya Nair's message about the invoice.
+gui-failure-suite-web-2770,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000/failures/aria-hidden-swallows-control,web,Turn on the Desktop Alerts toggle.
+gui-failure-suite-web-2771,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000/failures/native-dialog-outside-dom,web,Delete your account and confirm the deletion.
+gui-failure-suite-web-2772,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000/failures/action-not-exposed-in-tree,web,Search the Help Center for password reset instructions.
+gui-failure-suite-web-2773,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000/failures/low-contrast-boundary,web,Subscribe to the Weekly Newsletter.
+gui-failure-suite-web-2774,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000/failures/static-element-styled-actionable,web,Dismiss the storage almost full notice.
+gui-failure-suite-web-2775,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000/failures/actionable-element-styled-static,web,Archive the Project Proposal.pdf document.
+gui-failure-suite-web-2776,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000/failures/overloaded-icon-multi-purpose,web,Open the site menu and go to the Technology section.
+gui-failure-suite-web-2777,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000/failures/rebrand-breaks-grounding,web,Open the settings for the Chatterbox app.
+gui-failure-suite-web-2778,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000/failures/color-transform-defeats-cue,web,Open the service that is currently down.
+gui-failure-suite-web-2779,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000/failures/recycled-row-stale-label,web,Open the message from Elena Petrova.
+gui-failure-suite-web-2780,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000/failures/dom-order-visual-mismatch,web,Select the second plan.
+gui-failure-suite-web-2781,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000/failures/popup-outside-dom-hierarchy,web,Invite a new team member by email.
+gui-failure-suite-web-2782,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000/failures/dom-present-visually-hidden,web,Click the Renew now button to renew your subscription.
+gui-failure-suite-web-2783,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000/failures/gesture-only-no-visible-cue,web,Dismiss the domain renewal reminder.
+gui-failure-suite-web-2784,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000/failures/combobox-uncommitted-value,web,Set the shipping city to Munich and save the address.
+gui-failure-suite-web-2785,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000/failures/hidden-behind-menu-only-path,web,Go to Track your order.
+gui-failure-suite-web-2786,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000/failures/action-misrouted-across-tabs,web,Open invoice
+gui-failure-suite-web-2787,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000/failures/heading-label-mismatch,web,Go to the order confirmation page and note the order number.
+gui-failure-suite-web-2788,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000/failures/cluttered-list-similar-items,web,Open the Wireless Mouse M1 in Graphite with Bluetooth.
+gui-failure-suite-web-2789,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000/failures/missing-filter-sort-controls,web,Open the latest post.
+gui-failure-suite-web-2790,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000/failures/unsupported-language-content,web,Find out how many days you have to request a refund.
+gui-failure-suite-web-2791,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000/failures/non-updated-state-after-failed-action,web,Sign in with an incorrect email and password and report what happens.
+gui-failure-suite-web-2792,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000/failures/vague-validation-error,web,"Set a password of ""sunset"" and submit, then report the validation error."
+gui-failure-suite-web-2793,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000/failures/required-field-no-indicator,web,"Submit the contact form with your name, email, and phone number."
+gui-failure-suite-web-2794,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000/failures/click-no-visible-effect,web,Save the draft post.
+gui-failure-suite-web-2795,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000/failures/unbounded-infinite-scroll,web,Scroll the activity feed until you reach the end.
+gui-failure-suite-web-2796,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000/failures/late-render-outside-viewport,web,Find the names of the recommended products below the desk lamp details.
+gui-failure-suite-web-2797,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000/failures/slow-load-exceeds-budget,web,Confirm the appointment with Dr. Alvarez.
+gui-failure-suite-web-2798,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000/failures/popup-after-snapshot,web,Add the Mechanical Keyboard to your cart.
+gui-failure-suite-web-2799,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000/failures/stale-route-removed-page,web,"Read the ""How We Scaled to 1M Users"" article."
+gui-failure-suite-web-2800,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000/failures/blocking-modal-no-close,web,Open the Reports tab.
+gui-failure-suite-web-2801,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000/failures/invisible-overlay-captures-clicks,web,Write a short post and click Post to publish it.
+gui-failure-suite-web-2802,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000/failures/visual-occlusion-non-blocking-overlay,web,Subscribe to the Pro Plan.
+gui-failure-suite-mobile-2803,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Mail app, open Archive and archive the email from Dropbox."
+gui-failure-suite-mobile-2804,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Music app, open Up Next and move ""Ocean Breeze"" to the top of the queue."
+gui-failure-suite-mobile-2805,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"Open Settings (gear icon on the Home screen), open Delete Account, and delete your account."
+gui-failure-suite-mobile-2806,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Photos app, open Photo Details and add the photo to your Favorites."
+gui-failure-suite-mobile-2807,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Maps app, open Rate This Place and give it a 4-star rating."
+gui-failure-suite-mobile-2808,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Music app, open Lyrics and view the lyrics for ""Ocean Breeze""."
+gui-failure-suite-mobile-2809,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Mail app, open Toolbar and search your inbox for ""invoice""."
+gui-failure-suite-mobile-2810,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Calendar app, open New Event, set the location to ""Central Park"", and save the event."
+gui-failure-suite-mobile-2811,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Banking app, open Support and report a fraudulent"
+gui-failure-suite-mobile-2812,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Shop app, open Track Order and check the delivery status of your package."
+gui-failure-suite-mobile-2813,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Careers app, open All Openings and open the Senior Backend Engineer role at Nimbus Cloud."
+gui-failure-suite-mobile-2814,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Photos app, open the All Photos album and open the most recently taken photo."
+gui-failure-suite-mobile-2815,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the App Store app, open the Notiz app listing and read its description before installing."
+gui-failure-suite-mobile-2816,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Careers app, open Reapply and submit your application for the DevOps Engineer role."
+gui-failure-suite-mobile-2817,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Calendar app, open Recurring Event and create a we starting next Monday."
+gui-failure-suite-mobile-2818,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Social app, open Create Post and publish a post thend!"""
+gui-failure-suite-mobile-2819,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Dashboard app, open Activity Log and open the very first entry (the oldest event)."
+gui-failure-suite-mobile-2820,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Shop app, open Recommended and open the ""Wireless Charging Pad""."
+gui-failure-suite-mobile-2821,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Tasks app, open Sync and mark ""Submit expense report"" as done."
+gui-failure-suite-mobile-2822,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Dashboard app, open Alerts and refresh the data."
