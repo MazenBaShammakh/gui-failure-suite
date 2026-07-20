@@ -3,3 +3,4 @@ preprocessing/
 temp/
 docs/
 duplicate_tasks.json
+custom_tasks/
