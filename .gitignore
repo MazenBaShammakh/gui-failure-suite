@@ -2,3 +2,4 @@ preprocessing/
 .claude/
 temp/
 docs/
+duplicate_tasks.json
