@@ -16,7 +16,7 @@ configs:
 
 # GUI Failure Analysis — Task Suite
 
-Consolidated benchmark suite of **2,693 GUI agent tasks** spanning mobile, web, and desktop platforms. Duplicate tasks across benchmarks have been removed.
+Consolidated benchmark suite of **2,821 GUI agent tasks** spanning mobile, web, and desktop platforms. Duplicate tasks across benchmarks have been removed. Includes 128 hand-authored custom tasks (`GUIFailureSuite` benchmark) on top of the 2,693 source-benchmark tasks.
 
 ---
 
@@ -28,7 +28,7 @@ The suite is distributed across **3 chunks of up to 1,000 records** each, availa
 | ------------- | ------- | ---------------------------------------------------- |
 | `gui_suite_1` | 1,000   | `aitw-mobile-0001` → `mind2web-web-1000`             |
 | `gui_suite_2` | 1,000   | `mind2web-web-1001` → `mind2web-web-2000`            |
-| `gui_suite_3` | 693     | `mind2web-web-2001` → `osworld-desktop_windows-2693` |
+| `gui_suite_3` | 821     | `mind2web-web-2001` → `gui-failure-suite-mobile-2821` |
 
 Each chunk exists in three formats under the corresponding subdirectory: `json/`, `jsonl/`, and `csv/`.
 
@@ -58,16 +58,17 @@ Each chunk exists in three formats under the corresponding subdirectory: `json/`
 | LlamaTouch |       477 | mobile                    | app name string                  |
 | Mind2Web   |     1,341 | web                       | website name string              |
 | OSWorld    |       378 | desktop / desktop_windows | app name(s), comma-separated     |
-| **Total**  | **2,693** |                           |                                  |
+| GUIFailureSuite |    128 | mobile / web / desktop_windows | app/package name, default per platform |
+| **Total**  | **2,821** |                           |                                  |
 
 ### By platform
 
 | Platform        | Tasks |
 | --------------- | ----: |
-| mobile          |   974 |
-| web             | 1,341 |
+| mobile          | 1,064 |
+| web             | 1,375 |
 | desktop         |   358 |
-| desktop_windows |    20 |
+| desktop_windows |    24 |
 
 ---
 
@@ -79,3 +80,4 @@ Each chunk exists in three formats under the corresponding subdirectory: `json/`
 | LlamaTouch | LlamaTouch          | mobile                    | Zhang et al., 2024 — [arxiv.org/abs/2404.16054](https://arxiv.org/abs/2404.16054) |
 | Mind2Web   | Mind2Web            | web                       | Deng et al., 2023 — [arxiv.org/abs/2306.06070](https://arxiv.org/abs/2306.06070)  |
 | OSWorld    | OSWorld             | desktop (Linux & Windows) | Xie et al., 2024 — [arxiv.org/abs/2404.07972](https://arxiv.org/abs/2404.07972)   |
+| GUIFailureSuite | GUI Failure Suite (custom) | mobile / web / desktop_windows | Hand-authored tasks targeting known GUI failure modes |
