@@ -1,3 +1,19 @@
+---
+configs:
+  - config_name: default
+    data_files:
+      - split: test
+        path: jsonl/*.jsonl
+  - config_name: json
+    data_files:
+      - split: test
+        path: json/*.json
+  - config_name: csv
+    data_files:
+      - split: test
+        path: csv/*.csv
+---
+
 # GUI Failure Analysis — Task Suite
 
 Consolidated benchmark suite of **2,693 GUI agent tasks** spanning mobile, web, and desktop platforms. Duplicate tasks across benchmarks have been removed.
