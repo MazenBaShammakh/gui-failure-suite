@@ -823,3 +823,41 @@ gui-failure-suite-mobile-2818,gui-failure-suite,GUIFailureSuite,test,com.mazenba
 gui-failure-suite-mobile-2819,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Shop app, open Recommended and open the ""Wireless Charging Pad""."
 gui-failure-suite-mobile-2820,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Tasks app, open Sync and mark ""Submit expense report"" as done."
 gui-failure-suite-mobile-2821,gui-failure-suite,GUIFailureSuite,test,com.mazenbashammakh.mobile,mobile,"In the Dashboard app, open Alerts and refresh the data."
+gui-failure-suite-web-2822,gui-failure-suite,GUIFailureSuite,test,https://us.megabus.com/help,web,find out the refund policy on megabus
+gui-failure-suite-web-2823,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000,web,Send an email asking about pricing for a single exam.
+gui-failure-suite-web-2824,gui-failure-suite,GUIFailureSuite,test,https://bookdpworld.com/,web,Browse bestsellers under $20 and available in hardback.
+gui-failure-suite-web-2825,gui-failure-suite,GUIFailureSuite,test,https://www.agoda.com/,web,"Look for activities in Phuket, Thailand."
+gui-failure-suite-web-2826,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000,web,"Add best selling apple phone to cart, and then add a red apple watch to the wishlist and 2  to the cart, and then view the cart"
+gui-failure-suite-web-2827,gui-failure-suite,GUIFailureSuite,test,https://bookdpworld.com/,web,Browse fiction audio books sorted by lowest price.
+gui-failure-suite-web-2828,gui-failure-suite,GUIFailureSuite,test,https://www.aa.com/,web,"Find the lowest fare for JFK, NY to Heathrow, London and nearby airports for 1 adult on April 22, one way"
+gui-failure-suite-web-2829,gui-failure-suite,GUIFailureSuite,test,https://www.amtrak.com/,web,Find the terms and conditions of Amtrak RideReserve for Multi-Ride Passes
+gui-failure-suite-web-2830,gui-failure-suite,GUIFailureSuite,test,https://www.agoda.com/,web,Find a hotel with lowest price in Tokyo for 2 adults and 1 child for 10 May and checkout on 12.
+gui-failure-suite-web-2831,gui-failure-suite,GUIFailureSuite,test,https://www.agoda.com/,web,Find out details about cancellation fees.
+gui-failure-suite-web-2832,gui-failure-suite,GUIFailureSuite,test,https://www.aa.com/,web,Find flights from Chicago to London on 20 April and return on 23 April.
+gui-failure-suite-web-2833,gui-failure-suite,GUIFailureSuite,test,https://www.aa.com/,web,Check flight status from London to New York City for next day.
+gui-failure-suite-web-2834,gui-failure-suite,GUIFailureSuite,test,https://www.aa.com/,web,Find the cheapest hotel in New York City for 2 adults from Apr7 to Apr 8.
+gui-failure-suite-web-2835,gui-failure-suite,GUIFailureSuite,test,https://www.agoda.com/,web,What are today's Limited Time Offers deals?
+gui-failure-suite-web-2836,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000,web,Find digital watches that range between $50 and $150
+gui-failure-suite-web-2837,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000,web,Find details about refund policy
+gui-failure-suite-web-2838,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000,web,Find the latest blog about tech trends for 2026
+gui-failure-suite-web-2839,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000,web,Applying the following discount coupon to my cart: ABC123
+gui-failure-suite-web-2840,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000,web,"Add a green TV to the cart and checkout with different shipping address, FedEx as shiping method, and cash on delivery"
+gui-failure-suite-web-2841,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000,web,Send the support team a message about delayed delivery
+gui-failure-suite-web-2842,gui-failure-suite,GUIFailureSuite,test,https://www.ticketmaster.com/,web,"Find a help page about ""how presale works""."
+gui-failure-suite-web-2843,gui-failure-suite,GUIFailureSuite,test,https://us.megabus.com/,web,Find out what to do when a person loses an item on a bus.
+gui-failure-suite-web-2844,gui-failure-suite,GUIFailureSuite,test,https://www.perplexity.ai/,web,Ask Perplexity about the latest multimodal LLMs.
+gui-failure-suite-web-2845,gui-failure-suite,GUIFailureSuite,test,https://www.bbc.com/,web,Find the latest news about climate change.
+gui-failure-suite-web-2846,gui-failure-suite,GUIFailureSuite,test,https://www.bbc.com/,web,"Search for an article titled ""US Stock Markets"""
+gui-failure-suite-web-2847,gui-failure-suite,GUIFailureSuite,test,https://www.bbc.com/,web,Find the latest news of England.
+gui-failure-suite-web-2848,gui-failure-suite,GUIFailureSuite,test,https://yucca.co.za/,web,Find top selling cutlery.
+gui-failure-suite-web-2849,gui-failure-suite,GUIFailureSuite,test,https://www.accuweather.com/,web,Find the weather in New York City.
+gui-failure-suite-web-2850,gui-failure-suite,GUIFailureSuite,test,http://uniqlo.com/,web,"Find a list of Men's Blazers, Black, Size M."
+gui-failure-suite-web-2851,gui-failure-suite,GUIFailureSuite,test,https://linkedin.com,web,Get the latest post in my LinkedIn account.
+gui-failure-suite-web-2852,gui-failure-suite,GUIFailureSuite,test,https://www.bbc.com/,web,Find a news article about EU relations.
+gui-failure-suite-web-2853,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000/,web,How many items are in my wishlist?
+gui-failure-suite-web-2854,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000/,web,Send a message to the support team about reactivation of account.
+gui-failure-suite-web-2855,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000/,web,Send the support team a message about delayed delivery.
+gui-failure-suite-web-2856,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000/,web,Add Gamepad to the cart.
+gui-failure-suite-web-2857,gui-failure-suite,GUIFailureSuite,test,http://localhost:3000/,web,Add an iPhone to the cart.
+gui-failure-suite-mobile-2858,gui-failure-suite,GUIFailureSuite,test,com.android.chrome,mobile,Find the weather in Munich today.
+gui-failure-suite-mobile-2859,gui-failure-suite,GUIFailureSuite,test,com.google.android.deskclock,mobile,Set a daily alarm at 9 PM.
