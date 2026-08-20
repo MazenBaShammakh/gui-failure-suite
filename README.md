@@ -6,7 +6,7 @@ configs:
         path: jsonl/*.jsonl
 ---
 
-# GUI Failure Analysis — Task Suite
+# GUI Failure Suite
 
 Consolidated benchmark suite of **2,821 GUI agent tasks** spanning mobile, web, and desktop platforms. Duplicate tasks across benchmarks have been removed. Includes 128 hand-authored custom tasks (`GUIFailureSuite` benchmark) on top of the 2,693 source-benchmark tasks.
 
